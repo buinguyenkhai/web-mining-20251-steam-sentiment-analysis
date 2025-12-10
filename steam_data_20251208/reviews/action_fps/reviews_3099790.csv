@@ -1,0 +1,76 @@
+﻿appid,recommendationid,review_text,voted_up,timestamp_created,votes_up,votes_funny,weighted_vote_score,comment_count,playtime_at_review_minutes,playtime_forever_minutes,steamid
+3099790,201609379,"I played a lot of these games in arcades back in the day so it's already a great collection with 3 outstanding titles (Operation Thunderbolt is okay) and it's nice to have multiple versions for each title plus, with Night Striker, a remixed soundtrack. Being able to play Space Gun with a mouse is nice too. I don't know yet whether or not the DLC (console versions) is worth it but for just the arcade games this collection is very much worth the reasonable price.
+STAND BY READY! GOOD LUCK!",True,1754533329,0,0,0.5,0,51,225,76561198857975378
+3099790,202365346,"I enjoyed this mini-compilation, especially for the Night Striker game.  For those who complain that the they don't see the ""Homing"" shots, that is a separate shot.  Go to Settings, then controls, then Settings 2 for the mappings.  Your main shot (SHOT), can have more rapid-fire settings.  The ""Homing"" shot option (TRIGGER SHOTS), also has the same rapid-fire settings.  Use it to your advantage.  Be sure to hold both buttons simultaneously when playing (you'll see the homing shots with a different colour). 
+
+Also, the remixed songs (like ""Urban Trail"") clearly aren't the same ones that are going to be used in the forthcoming Night Strlker Gear sequel (Unless that will be an extra music option).
+
+I'm still waiting for this to be available for the other current-gen consoles (like XBOX and PS4/5).",True,1755486566,1,0,0.523809552192687988,0,58,343,76561198129961423
+3099790,201584723,Great collection of arcade classics! I love Taito arcade games.,True,1754502875,7,1,0.58527827262878418,0,47,50,76561198083055669
+3099790,201729874,"OMG! SPACE GUN!
+
+Space Gun was the coolest game in the early 90's before Wolfenstein 3D and others.
+Back in those days my local swimming baths had this arcade cabinet and my every coin went there…
+
+Thank you for this awesome collection, much appreciated!",True,1754686869,1,0,0.484052538871765137,0,50,52,76561198043226665
+3099790,201729089,"Beautiful package with lots of options and care, recommended for fans of the featured games or Zuntata music. The highlight is definitely Night Striker, seeing as we've never had an arcade perfect release of that game available at home - and it's still an impressive scaler game in 2025.",True,1754685986,12,0,0.660905659198760986,2,63,63,76561197991669382
+3099790,202154698,"I posted this fullscreen fix in the forums earlier, but I figure it would be good to include in my review as well for others to see.  To have the game always open in fullscreen, go to your game directory folder and in there you should see a folder labeled ""winbackup"". Go into that folder and create a new file and name it ""savecfg.txt"". Open that file to edit it and then paste in the following:
+
+LAST_CLIENT_SIZE_ENABLED = 0
+LAST_WINDOW_POS_X = 0
+LAST_WINDOW_POS_Y = 0
+LAST_WINDOW_POS_ENABLED = 1
+BOOT_FULLSCREEN = 1
+
+Save and close out of the file. The game should now open in fullscreen every time afterwards.  
+
+If you want to change the resolution to something different than your desktop you can also add the following lines.
+
+LAST_CLIENT_SIZE_X = 1920
+LAST_CLIENT_SIZE_Y = 1080
+
+Obviously replace the 1920 & 1080 numbers with whatever resolution you want. 
+
+Outside of the inconvenience of implementing that fix, I am having a good amount of fun with the games. I don't have a Cyber Stick so I can't test that, but using a mouse or controller feels good.
+
+It's not M2's best work, but there was care put into this. They added a good amount of options for the games so you can find a look and control scheme that works best for you.  Also, for those who are interested they included ""easy"" versions of the lightgun games as well, which are great if you just want to have some low pressure fun with a couple drinks.  For some reason they don't mention those features on the Store Page...
+
+Unfortunately, people have reported that the newer light guns of today that use absolute positioning mouse input do not work.  I don't have one myself, but I still hope the devs can work on a patch to add the option to use those.  
+
+Similar to most compilations we have seen lately, if you love the original games themselves I think the current 10% discount price is well worth it.  If you're not as big of a fan of the original games and/or are on the fence with this one, you may want to just wait for the winter sale.",True,1755227209,13,0,0.688410401344299316,0,86,99,76561197994245674
+3099790,201591876,"Please have a setting option for the main menu.  Keeps opening to window and I have to keep adjusting to full screen within selective game.  
+
+The console games shouldn't have been DLC but I suckered to buy because I want to support this.  Little too greedy imo.  You're welcome, though.
+
+Overall, great collection of some great shooters.  Love Night Striker, always been one of my favorites.  M2 did a great job on this.",True,1754510274,9,1,0.60996556282043457,0,84,170,76561198266359860
+3099790,201969507,"If you're a fan of light gun arcade games, then you'll be right at home with this collection! Lots of good options to adjust the difficulty, having quick saves, and other aspects so the games aren't as harsh quarter munchers as they used to be. Plus, having the different regional versions is also a nice touch.
+
+However, it isn't completely perfect. The game launcher doesn't start off in full screen mode, and barely gives you 2 seconds to see the awkwardly mapped functions for keyboard functions (PROTIP: Keys 1, 2, Q, W, A, S, Z, X). Oh, and you WILL need a controller or joystick to play Night Stalkers effectively. Also, having the console versions be DLC seems a bit... much, since they were generally inferior to the arcade ones.
+
+Overall, a qualified buy if you want some nice arcade nostalgia and quick fun.",True,1754996653,1,0,0.5,0,124,172,76561198121494339
+3099790,201711944,"Great games , given that extra M2 treatment and an alternative OST for Night Striker. No idea about the console versions as yet.",True,1754667909,0,0,0.5,0,69,396,76561198311615888
+3099790,202163895,I like it!!!,True,1755242280,1,0,0.5,0,99,245,76561198026498534
+3099790,202517634,This is one of M2's better efforts. It isn't lightgun compatible.,True,1755694148,6,0,0.584472596645355225,0,219,276,76561198157943527
+3099790,202722283,"This is a pretty good package if you don't mind playing light gun games with a mouse. The emulation and gadgets are good, but the interface is a bit rough. Keyboard bindings are tied to virtual controller inputs and the game always starts in a window. Once I was in the games I had no issues.",True,1755961897,4,0,0.566332340240478516,0,165,191,76561197970846893
+3099790,201711435,"M2 does it again. A great collection of classic Taito games. Comes with great quality of life features like save states, autofire etc.
+
+Night Striker is a TON of fun. And the 3 light gun games are a lot more entertaining then I was expecting.",True,1754667407,4,0,0.531202435493469238,0,155,530,76561197976536007
+3099790,206028410,"I'm here for Night Strikers, but Op Wolf, with it's Uzi controller, was a favorite at the arcade as a kid. I'm new to Night Strikers, but yes to its gameplay, plus the laughable narrative translation. The price is a bit high for what you get. Looking forward to Night Strikers Gear!",True,1759748389,0,0,0.5,0,127,142,76561197994616079
+3099790,201666692,"Night Striker is one of the finest arcade games of the 80s and that alone is well worth the price of admission here, its a wonderful game and a wonderful port, and it even features a new soundtrack. The gun games are also really quite fantastic, especially SPACE GUN, and are ported well. Taito just didn't miss in the era these games are from, really.
+
+The console DLC for this should really be seen as a complete novelty and is very inessential. Night Striker CD has a cool arranged soundtrack, but is borderline unplayable, and the rest are effectively just straight downgrades. I'm a sucker for weird ports that are kinda bad, but if you aren't, just go for the standard and play the absolute shit out of night striker.",True,1754605924,6,1,0.589201867580413818,0,251,775,76561198070133275
+3099790,201822208,Great collection. My only complaints is every time I launch the game it always goes window mode. This needs a change. Thank you. That's all overall fantastic collection. Fantastic,True,1754806430,1,0,0.5,0,370,3222,76561198066810490
+3099790,201616295,"As of launch, the current version of the OpenFIRE light gun firmware does not work with the three gun games in this collection. When the gun is pointing at the screen, the crosshair is locked to the bottom-right corner of the screen, rendering 75% of this collection unplayable with a light gun. Mouse controls still work as expected, however. This review will be updated if this severe control issue is corrected.
+
+Aside from that, the menu UX is bizarrely difficult. The only assistance for navigating menus with a keyboard is a diagram at startup showing a mapping of keys to controller buttons shown for 1 second, with no means to remap them afterward. The button legends on the bottom of the screen do not have keyboard equivalents, and the mouse cannot be used in the menus at any point except to test mouse controls deep in the controller configuration. For anyone hoping to play the gun games without a controller plugged in, reaching that point is more difficult than it should be.",False,1754544607,18,1,0.633927464485168457,0,9,15,76561197997970853
+3099790,201625358,"Terrible overpriced hackjob. Scam too, I bought the book dlc and it is simply not there at all. 
+
+Refunded, and went back to MAME.",False,1754560107,12,5,0.473469465970993042,0,6,6,76561198011822789
+3099790,202061773,"I can’t get the games to work with my Sinden light-guns or Retro Shooter RS3 Reaper 4IR setup. Bummer. Back to MAME. I keep buying these reissued arcade games to support this type of product but MAME emulation is usually superior. Did M2 not realize that people would want to play light-gun games with light-guns?
+Until light-gun support is added, I don’t recommend purchasing.",False,1755111141,34,0,0.715074300765991211,0,31,37,76561198091206076
+3099790,201880199,"If you just want to play the 2D lightgun games with a mouse then consider this a positive recommendation. 
+However, I only bought it because of Night Striker and I'm not happy with the game as it is in the release. The car returns to the center of the screen all the time, if enemies are in the corners/edges I have to keep fighting with the directionals to reach them. It needs an option for free control like in the Sega Saturn, PSOne and Sega CD versions. If the future Night Striker Gear turns out to be this same auto-centering nonsense I've lost interest already... Another thing that frustrated me was that there is an option to change the colors of the bullets, which in theory could reduce the confusion between your bullets and those of your enemies, but it's not working. For the game to start in full screen mode you will need to edit a txt file inside the installation folder. And scores are not being saved, unless you use save states for that.
+And since I'm already firing off complaints, I also think that better companions for Night Striker would be Aqua Jack and Galactic Storm - both Taito games in the same vein.",False,1754872686,7,2,0.558927357196807861,0,301,407,76561198105922370
+3099790,202530096,"Due to how this collection handles the mouse, 3 out of 4 games don't work with the intended input method through modern lightguns like the Sinden, Gun4IR, Retroshooter, etc. which is the most disappointing aspect of the whole package. Those literally work like digitizing tablets and other PC pointing devices controlling the mouse cursor, nothing special needs to be done, but I can guarantee you M2 will never fix this because fuck PCs, am I right Japanese dev bros?
+
+A weird UI and some baffling issues makes this a no-rec unless you really really want to play Night Striker officially for some reason. This is real sad because usually M2 games go above and beyond public emulation, with better emulation accuracy and neat extra features and gadgets. But here, MAME still reigns supreme.",False,1755707152,16,0,0.708997905254364014,0,73,73,76561198032349976

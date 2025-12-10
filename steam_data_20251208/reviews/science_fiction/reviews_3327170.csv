@@ -1,0 +1,675 @@
+﻿appid,recommendationid,review_text,voted_up,timestamp_created,votes_up,votes_funny,weighted_vote_score,comment_count,playtime_at_review_minutes,playtime_forever_minutes,steamid
+3327170,211745642,lowkey hated this game but i needed to last 5 minutes to prove im a man,True,1764451813,0,0,0.5,0,187,187,76561198253216159
+3327170,192968198,"Great game, a bit short, but I feel like if it were much longer it would get repetitive.",True,1744921459,0,0,0.5,0,200,200,76561198419491895
+3327170,199599138,"Not a bad little game, but it is 100% not a idle game, more of an incremental bullet hell.  Short, fun, but if you got here from the idle tag and were looking for something chill you're not going to enjoy this at all.",True,1752305048,2,0,0.529243946075439453,0,146,146,76561197973672122
+3327170,206545678,The game is good but i lost my save dev plz add more saves,True,1760274541,0,0,0.5,0,102,122,76561199820075661
+3327170,192932059,It's a game called MINUTEscape complaining about it being short is crazy. good game love the dev team :),True,1744885481,1,0,0.5,0,47,81,76561198189898743
+3327170,197215020,simple but fun,True,1749907216,0,0,0.5,0,185,185,76561198291644366
+3327170,199172260,"the concept is cool and the gameplay is fun its just the upgrades are so ass and barely add much to the gameplay, and it goes by very slow trying to get stuff done",True,1751861864,0,0,0.5,0,36,81,76561199501226915
+3327170,196933280,gaming,True,1749605477,0,0,0.476190477609634399,0,176,176,76561198164526563
+3327170,192959564,The work is mysterious and important.,True,1744913952,0,1,0.5,0,121,200,76561198025301819
+3327170,199887154,guhd,True,1752612224,0,0,0.5,0,166,263,76561199011212308
+3327170,192815090,"It's an addictive game. The upgrades are awesome and you can choose different ways to try to reach 5 minutes.
+
+I'm going to play sooo many hours!",True,1744740668,7,0,0.506393849849700928,0,30,30,76561199251922945
+3327170,210590600,Pretty cool game,True,1764093235,0,0,0.5,0,187,187,76561198888136013
+3327170,192820244,"Very good Game, i played the demo before and smashed it on my wishlist.
+u need to like the rogue/incremental genre to play it!",True,1744745618,8,0,0.52173912525177002,0,127,266,76561198285656622
+3327170,193269127,It's really easy to learn and it is really easy to beat it while getting all the achievements because i got all of the achievements AND beat the game in less than 4 hours total,True,1745245916,0,0,0.5,0,176,198,76561199200730113
+3327170,211856446,A frustrating toy that gives you inches towards the end.,True,1764499754,0,0,0.5,0,174,183,76561198085093968
+3327170,203382259,"not bad incremental dodge-em up, but needs a bit more time in the oven as there's some bugs present(like some controls not working, or settings not saving after closing them) and also it gets overly repetitive somewhere in the middle messing up the pacing of progression",True,1756817653,0,0,0.5,0,154,154,76561199497162996
+3327170,194968175,Good upgrade system of tiles which unlock adjacent tiles. The last 1/3 of the game was ~15% too slow and grindy.,True,1747341912,0,0,0.5,0,136,136,76561197989057445
+3327170,192913022,"Fairly short, but very enjoyable experience.",True,1744859324,1,0,0.5,0,188,188,76561198354701477
+3327170,198110807,"i really like the game, its a good bullet hell. 9/10 because going for 100% completion takes very long, but the most attension on 100%'ing the game is the cutscene which is unavoidable, if it was skippable it would be a great qol change. Thank you for the experience!",True,1750858100,1,0,0.495867758989334106,2,130,205,76561199276019871
+3327170,201391941,fewer reviews as new appear,True,1754256018,0,0,0.5,0,30,190,76561198174415163
+3327170,193021015,"it's grindy, it's frustrating, the game mocks you and it feels very linear in progression. But it is still a lot of fun :D",True,1744984586,0,0,0.5,0,199,199,76561197990490541
+3327170,192980690,A fun short incremental game.,True,1744935063,0,0,0.5,0,176,176,76561198074744728
+3327170,193466603,"Pretty cool game I found through Wanderbots, bit grind heavy and skill issue lol but interesting nonetheless",True,1745486159,0,0,0.5,0,64,111,76561198063478115
+3327170,202862533,The setting dont save i try to turn off CRT effect and screenshake and it instantly turns back on pls fix other than that game is simple but fun,True,1756138409,0,0,0.5,0,32,196,76561199092920675
+3327170,193138168,"Really cool take on the incremental genre. Had fun while playing and was nice to try and figure out how to proceed in some places. Idea felt like it was inspired by other incremental games and id like to believe its inspired by Undertale's combat mechanics, as it fuses the gameplay with incremental genre really well.
+
+But as this is a review, i'll talk about several things that i think can be improved.
+
+There are some pacing issues and i think it stems from the fact its hard to judge how long into the game a normal player 
+can go with the upgrades they have, and thats totally understandable. I will list some issues and potential fixes i could think of while playing. 
+- There is currently no way of generating enough red resource to upgrade everything if you are not constantly grinding 3-4 minute runs. I think the fact the All multiplier is stuck on top left where it requires 150k red resource to get to, is amplifying the issue even more. I have finished the game several times now and i still dont have enough to upgrade and unlock top left. As a completionist i will keep grinding, but moving it to another space or adding other ways for resource gain multiplier would be great - more on this later.
+- I think the game should unlock a kind of unlimited mode, i couldnt find it even if exists. Red resource is increased exponentially as the game progresses but as you are stuck at a 5 minute timer there's no way to increase it further with time, your only way to amplify your gain is through upgrades, which are stuck behind more red resource required upgrades.
+- Challenges section was underwhelming. As someone who loves incremental games that get amplified by the challenge times like Antimatter Dimensions, I thought challenges would be a lot more and work differently.
+I think challenges could be reworked into something that has unique changes to how game functions. Like changing every resource with the blue one, always having the special event in the end of the game but a harder version etc.  And they would make more sense and would help a lot more if they were multipliers on the resource gen, while also having something like ""All resource gain is multiplied by the average of your challenge completions"" to push player more into challenges.
+- Last power should have some kind of indicator for charge time. And it should charge even if you click and let go. I think i bugged it and wasted several uses because I couldnt hear the sound of it.
+- And lastly, i really think it should include some kind of credits roll at the end for the first playthrough. And maybe remove the cutscene for the next ones, it takes too much time to watch while grinding for all upgrades
+
+Aside from all these nitpicky points, i really love the game and wish it extended more because of how much i liked it. Looking forward to other games and potentially patches for the game from the dev. Really great job.",True,1745100938,2,0,0.545454561710357666,0,181,224,76561198017944703
+3327170,192855316,"A fun short incremental game. Challenging throughout. I enjoyed it as someone who doesn't enjoy bullet hells in general.
+
+The balancing could have been better in places. At times it felt a little grindy, and some of the upgrades felt like they did almost nothing. Despite that, I had a nice time with the game. It was fun both improving my own skill at the game, and upgrading to make it easier.
+
+Took me just over 3 hours to finish. Plus I'd played the demo for an hour or so, so the main game probably went a little faster for me than it would've without that.",True,1744795564,1,0,0.5,0,197,197,76561197999252998
+3327170,210030530,It was short and fun,True,1764007282,0,0,0.5,0,201,201,76561197997862985
+3327170,193709604,"Usually I enjoy short active incremental games, but I have mixed feelings about this one...
+1. It lacks direction at certain points of the game ([spoiler] Get shield [/spoiler] to unlock 4th currency)
+2. It's way too active for an incremental game (I don't like the idea that you have to sit there and dodge stuff to farm, skill expression should be minimal in those type of games imo)
+3. Some parts are too grindy with nothing happening in-between. Especially late game red currency gains could use some buffs (I got 100% without upgrading those nods tho)
+
+Overall, it was still a fun experience
++
+Dev said he will soon release a patch that will fix most of the issues",True,1745763884,6,0,0.568134069442749023,0,196,196,76561198238166672
+3327170,193222842,PToo heavy for me personally,True,1745187721,0,0,0.5,0,132,175,76561199190178806
+3327170,197723815,.,True,1750444364,0,0,0.5,0,199,199,76561199473332903
+3327170,196264399,"I mean, i had a lot of fun playing it!",True,1748892725,0,0,0.5,0,198,198,76561198060655745
+3327170,195161996,"this is the first one of these ""incremental upgrade nodebuster style games"" im actually upvoting because holy shit its actually kind of skill based?? how has noone thought of that yet. this genre is pathetic lmao",True,1747588386,0,0,0.5,0,146,146,76561198386985657
+3327170,194795010,"A fun little game that has you dodging bullets in a box with the aim to survive 5 minutes. If you can do it, you complete the game. It's not as easy as it seems of course, but you earn different currencies that allow you to get upgrades, unlock abilities and thus survive longer. It took me about 3 hours to finish the game and most of it was enjoyable, but it does get a bit grindy at times, especially if you aim to unlock as many upgrades as you can. Still a neat timewaster, especially on sale - though definitely not an idler as the misleading user-defined tag claims.",True,1747115970,3,0,0.546502649784088135,0,172,172,76561198025321433
+3327170,195419026,Fun game but pretty short so temper your expectations. The mystery presented doesn't really pay off in my opinion. Probably wait for a sale.,True,1747931632,0,0,0.5,0,175,175,76561198043637984
+3327170,199412579,"I think having a more ""defensive"" prespective on this game had some people thrown off. As of today the game works great and is enjoyable to play and to defeat. The only downside I would give is the unbalance of currencies, the market seems more like a quick bandage placed to aid in lack of balancing the received currencies vs how much you need to make upgrades and how many upgrades requires that specific currency.
+
+Overall enjoyable experience with a different prespective on incremental games, great job!",True,1752107321,1,0,0.508196711540222168,0,174,174,76561198101767588
+3327170,212820515,touhou if it was easy,True,1765157406,0,0,0.5,0,187,187,76561198157541598
+3327170,212517373,Pretty cool game,True,1764814631,0,0,0.5,0,177,177,76561199050977523
+3327170,192884825,Very peak short game. It drags itself a little bit during the middle of it but it becomes engaging near the end again. And since its a relatively short game the drag isnt that noticable. For 5 Bucks this is a nice deal,True,1744826649,1,0,0.5,0,140,140,76561198390941817
+3327170,193748198,"It's a novel little game. At points it is grindy, but overall there's about 2 hours of content",True,1745801698,0,0,0.5,0,161,203,76561199057896919
+3327170,192837846,"Minutescape is a Short and Sweet active incremental game, similar to others in its genre like Nodebuster or To The Core. I was definitely excited for this one as soon as I saw the demo earlier this year. Was the wait worth it? ... probably yea. 
+You can expect about 3 hours of gameplay out of this one, probably some more if you want to challenge yourself but there's really not much reason to keep playing after you win. 
+
+Like with most of these short incremental games you can probably expect to get some replay value in about a year or two after you first play depending on your personality.
+
+The game is definitely not perfect and still has some things that probably need to be ironed out eventually. Here is what I thought from my experience playing it on launch day.
+
+The main flaw the game has is its ability system. In the game there are four different abilities and you are allowed to bring any two of them with you to use in the ""simulation"". However, this is only half true in practice. The game pretty much forces you to use the third ability ""Shield"" which means you really only have one spare ability slot that the other three abilities have to compete for. Of the other three, ""Shrink"" is just generally superior to ""Slow Time"" in both cost and effect, and the final ability ""Shockwave"" is just completely awful and too expensive to upgrade.
+
+I am not sure if this would negatively impact the game or not, but ""Slow Time"" really should have been the first ability that you unlock, instead of ""Shrink""
+
+The pacing also isn't anything you will really be writing home about. I wouldn't say that it is terrible, but I never felt anything particularly special about it. It does kind of end up gimping the final ability, and a few of the final economy upgrades are also super overpriced and will never be bought even by people who are bad at the game. A currency converter would have also been appreciated, as one of the five currencies runs out of things to buy significantly faster than the others.
+
+It also wouldn't hurt to show the player that certain upgrades are still hiding more upgrades behind them. This is especially bad for upgrades related to the Shield ability, which is hidden behind not one but TWO levels of Slow Time upgrades. In my run I saw the writing on the wall for Slow Time and didn't bother investing in it, only finding out about my mistake later when [spoiler]I realized I had skipped an entire currency tier by accident [/spoiler]
+
+The game is also quite linear, although that is not necessarily a bad thing for all people but it should still be noted for those who do care about it. Certain upgrades are also a bit ambiguous on what they actually do to help you ""Fewer easy bullets as new appear"" in particular sounds very strange.
+
+Lastly, the ending of the game could use a little bit of work too. While incremental games aren't necessarily known for their endings the end to this one felt a little abrupt and flat. This game certainly has its own kind of charm and personality and it was a bit of a shame to not see that fully realized in the ending.
+
+Conventional gamer wisdom says that 3 hours of gameplay for 6 dollars isn't offering you great bang for your buck, and looking at it through that lens there are undoubtedly many other, better games to spend your money on. Looking at it through the lens of an idle/incremental enjoyer though, this one certainly isn't too bad and can scratch the itch if you haven't played one in a while. It's not like 6 dollars an end of the world pricepoint or anything. If you like idle/incremental games you will probably end up playing this one eventually, although I would put it fairly low on the priority list unless you are looking for something really fast.
+
+While I have spent a huge amount of this review harping on all the flaws and shortcomings about this game, I still found it to be a pleasant experience overall. It has only just been released a handful of hours ago at the time of writing this review so there is still plenty of time for these issues to be addressed in the future.",True,1744766666,4,0,0.5,0,143,143,76561198113994839
+3327170,193403124,"I liked it, it's short for its price, especially if you beat it without grinding all the upgrades, but it's fun and challenging.",True,1745408395,1,0,0.523809552192687988,0,96,96,76561198013790215
+3327170,192823339,"Minutescape is straight up INSANE. If you love idlers, this game is gonna have you hooked from the get-go. The gameplay? So satisfying. The progression? On point. Every time you think you’ve got it, it throws something new at you, and trust me, you’ll keep coming back for more.
+I’ve been grinding the demo for a while, but now that the full game is out? I’m ready to fail HARD, It’s addictive, it’s fun, and it’s honestly just a blast.
+The abilities in this game? SO many options. You can go all-out power or get strategic with your upgrades. there’s no wrong way to do it.
+But here’s the best part, the insults when you die. They’re hilarious. Every time you fail (and you will fail, it’s part of the fun), the game hits you with these savage lines that are actually kinda motivating. 
+
+If you like games that keep you on the edge of your seat and you don’t mind getting roasted a little bit, you NEED to try this out. This game is addictive!",True,1744748761,7,0,0.362383931875228882,1,76,158,76561198124263390
+3327170,194358572,"I played the demo and loved it, had some bug causing the music to disapear and my screen to freeze, but when clicking around there were button sounds. Bought the game and it still happens, reloaded game multiple times, no changes, no hard fealings either, would just like to know what could be the issue...",True,1746547770,2,0,0.545454561710357666,2,7,227,76561199465493345
+3327170,202922784,short and fun for bullet hell enjoyers.,True,1756221336,0,0,0.5,0,195,222,76561198356358925
+3327170,197317142,"Very good 'small' but intense game. 
+It's fun, satisfying, and just challenging enough to keep you going. 
+As expected from a Molter game, it's well-crafted and enjoyable.",True,1750006510,0,0,0.5,0,168,168,76561198140170797
+3327170,192885449,i paid 5 bucks. I got more entertainment out of it than I would a 5 dollar movie.,True,1744827172,3,0,0.531981289386749268,0,184,184,76561198001043815
+3327170,193285643,"Fun game, it has a learning curve but it isn't too steep. Can get a little grindy.",True,1745260192,2,0,0.532170116901397705,0,195,215,76561197983314325
+3327170,193367967,"good, fun, cheap",True,1745358447,0,0,0.5,0,201,291,76561199078927645
+3327170,192884777,"I haven't finished this game yet, but I have thoroughly enjoyed it. The mechanics are innovative, with soft restrictions on the game stages where it's not locked but pretty much impossible to reach the next stage without the relevant upgrades, which is also balanced well. The skill building of the player to go from dodging linear bullets to attracting resources to homing projectiles has a great, subtle learning curve, and the strategic element of exploration and safety doesn't press as hard as a lot of other games with the overwhelming amount of information and immediate strategy to learn.
+
+A small sidenote is that I see limited customization, especially no option of choosing keybind for the ability keys. I do agree that dragging the mouse allows freer control on the character's hitbox than the 8 8-direction WASD control used in most other games, and how setting the ability keys to the mouse keys would make sense, but this is not friendly for touchpad players since it's difficult to press and move and also just to use both abilities. I would recommend either establishing alternative keybinds for the abilities or allowing the player to choose the keybinds for those.",True,1744826610,1,0,0.5,0,60,60,76561199188355070
+3327170,201282766,"This is not a chill idler, this game ties your progression directly to your bullet hell skills.
+The issue is the huge hitbox, tight room, and slow speed of the box mean that actually skilled bullet hell players will probably hate this at first. You can upgrade the tight room and speed.
+
+I'm having a good time but I'm really worried the dev shot himself in the foot with this one. It's normally not smart to make your game around a very specific playerbase and then actively antagonize them by making them unlock the quality of life normal in their genre.
+
+The reviews mention the game insulting you a lot and like, it does do that but it's small snippets like ""you're bad at this"" and ""give up"" on a splash screen. It's not exactly severe or even that annoying it's just a little cringe.
+
+All in all I recommend it you don't have anger issues. Good for 30 minute sessions where you see a little progress and get a little better.",True,1754138963,7,0,0.594262301921844482,0,162,168,76561198022299454
+3327170,192865526,very enjoyable,True,1744809357,1,0,0.5,0,123,200,76561198846138843
+3327170,200697341,fun,True,1753472397,0,0,0.5,0,158,192,76561199453321885
+3327170,192862734,Fun little time killer. A little too grindy for my tastes. Would be nice to be able to skip the first 30 seconds of each round once you're at the 5 figure red and 4 figure green and 3 figure purp range.,True,1744806085,1,0,0.5,0,94,94,76561198125147677
+3327170,194085467,"My games keeps breaking and going into the demo save I had and then when I buy things they don't stay purchased after i finish the simulation, I deleted the demo and uninstalled minutescape before re downloading it, please help.
+
+Update: For any one else having this issue you just have to load the 1.0 version, play, and then load the current version",True,1746226073,1,0,0.523809552192687988,0,18,443,76561199089948560
+3327170,194240180,,True,1746389901,0,0,0.462328791618347168,0,181,344,76561199120731734
+3327170,192817233,"If you're a fan of strategy games, this one is incredibly addictive. Its well-designed mechanics and engaging gameplay will keep you hooked for hours. Definitely worth investing your time in this!",True,1744742712,6,1,0.47413790225982666,0,30,104,76561199846619759
+3327170,192848870,pretty fun,True,1744783725,3,0,0.523809552192687988,1,175,314,76561199080660275
+3327170,192818535,"This game is super fun and addictive, with just the right amount of humor to keep you hooked. You'll keep coming back for more!",True,1744743913,7,0,0.509116411209106445,0,54,544,76561199519237454
+3327170,197107146,"This game’s way more fun than I expected. Super cool style, fast runs and the upgrades feel great. It gets a bit grindy near the end but finishing it was worth it. Really hope they add an endless mode someday.
+
+🔥 Come vibe in my Steam group and talk more awesome games like this: https://steamcommunity.com/groups/CoolorNah",True,1749794626,0,0,0.5,0,201,201,76561198971530954
+3327170,192824568,"Fun little game which combines some rogue-like and incremental elements.
+Can feel a bit grindy at times, so probably not for people which do not enjoy some farming.
+
+I feel like the game had the foundations to go further with the upgrades and the enemies, which would have resulted in a longer game without changing too much of the actual content.
+It may currently be on the ""pricy"" side compared to the content at hand, but it was definitely enjoyable and will keep you busy an evening.",True,1744750109,2,0,0.5,0,193,193,76561198055605276
+3327170,202489177,It's an enjoyable incremental game.,True,1755651330,0,0,0.5,0,20,20,76561197970539229
+3327170,202918088,"Fun game, 100% achievements after 2.5 hours though. Buy it on sale",True,1756216692,0,0,0.5,0,148,148,76561198060624962
+3327170,203053932,"I saw complaints that the game gets overly grindy during the two minute mark in game however this was not my experience, of course the game has grinding it is an incremental type game. However it's simply a standard snowballing chain that eventually sees you break through into the next resource of the game allowing for the building to repeat. Besides there's a pretty high skill ceiling that I found very satisfying to do good in once learned with abilities to boost your survivability and further increase it. Problems of repetition are doubtful in my opinion because there are many break points in the game that prevent this such as the introduction of challenges, trading and as mentioned prior abilities. Trading needs to be in more games because I can not emphasise enough how grateful I am for this mechanic as it saves the incredible tedium of grinding for a certain resource while having millions of higher value ones you wish you could swap for. Challenges also present a multiplicative buff towards certain attributes like speed, health and ability use cap making it very worth it to at least try the challenges. If you don't like what you see in the trailer you won't get it where as people that did I imagine would and end up, for the most part, enjoying this type of gameplay. All in all I enjoyed my time with the game but I would say to the developers please in future get better music I understand what you were going for given the games ending but please understand I think most like me would find it boring and draining on the ears, I just played my own music over it the whole time, you can do eerie music but it didn't fit the kind of theme the gameplay sets so despite the story it felt out of place and more annoying than anything. Speaking of sound design though would it be too much to ask for at least some effects on the projectiles making them more memorable or maybe when purchasing upgrades. But that's as far as my criticism goes for the game, given its price point and game time I think it's worth a buy",True,1756395408,4,0,0.559748470783233643,0,201,215,76561199302356168
+3327170,197234969,"Fun game, though I did have to delete my save that I had from the demo since it would break the game at the end of the run if I didn't. 4/5",True,1749923340,0,0,0.5,1,152,184,76561199533682252
+3327170,208232354,Great game,True,1762095190,0,0,0.5,0,25,25,76561198067330921
+3327170,206987019,"Short enjoyable nodebuster clone.  Here you're playing Undertale's combat system, dodging attacks as long as you can while confined to a box.  You upgrade the size of the box, how fast you move, and other things.  Skill matters, I was able to beat the game without being anywhere near maxing everything.",True,1760773984,0,0,0.5,0,141,141,76561197993268038
+3327170,193921778,"Nice ""browser game"".
+Short but priced accordingly.
+Overall fun game.
+
+I personally 100% the game in about 3 hours but there was still room to get more upgrade in case I was struggling, so anyone can win with just a bit more effort than me and in similar time.
+Would love to be able to toggle upgrades off though, to challenge myself a bit. Then again the game feels complete even without that which is nice.",True,1746037269,0,0,0.5,0,186,186,76561198012027824
+3327170,192847856,"This game is a good, short incremental game.  It has a fun atmosphere, with solid progression that requires a bit of skill.  Overall, I think I got my five bucks, and I'm not quite finished with it.",True,1744781927,3,0,0.5,0,189,296,76561198026736650
+3327170,199750491,I enjoy this type of game I think the comments at the end of each round are a lot of fun!,True,1752454339,0,0,0.5,0,196,287,76561199629873941
+3327170,192990069,"A game where you have to survive 5 minutes. 
+That gets incrementally harder as you progress.
+
+It starts off incredibly slow until you get specific upgrades. Which make that run ever so sweeter.
+You get rewarded for doing 'challenges' which give you extra stats too. Which gives enough sustenance to reach the end. 
+
+This requires more skill to watch patterns when you play for the first time. Until you reach the 1 minute mark where you need to focus on dodging the homing enemies. It only gets more hectic as you progress.
+It's fun enough.",True,1744947140,3,0,0.508196711540222168,0,195,195,76561198044002252
+3327170,193459644,"Good game, solid 3 hours of content",True,1745476304,0,0,0.5,0,182,203,76561199028437633
+3327170,193083069,"Short but a banger, would suggest dropping the red currency prices",True,1745049373,0,0,0.5,0,167,167,76561198047133427
+3327170,193090119,"WOW I relly suggest buying it especially for that low price for such a great game, i just completed it but i actually didnt expect to ending be so exciting and fun to play and try to beat it. This game actually requires a lot of skill and strategy. This is one of the BEST GAMES I'VE EVER PLAYED!!! Relly you should consider buying it if you're reading this comment :)
+I even can't believe that this game was created by just 1 PERSON!
+He did very good job doin' it.
+I relly had SO MUCH FUN playin' it.
+If you think about buyin' that game you shouldnt even consider, just BUY IT, IT IS RELLY WORTH IT.
+
+
+Thank you for creating this game-
+to developer  :D",True,1745057872,0,1,0.5,0,165,165,76561199155224031
+3327170,192811894,"Super addictive game with just the right amount of progression and satisfying gameplay to keep me going for new runs. The sounds and effects are juicy, the abilities nice and varied and you can take whatever upgrade path you like. The insults every time you die are, MOTIVATING, and they definitely keep you humble!
+
+I've been playing the demo for some time, and am super stoked to fail miserably at getting to that 5 minute mark now that the game has released - awesome game!",True,1744737616,12,0,0.543076276779174805,1,84,281,76561198088799716
+3327170,193184489,"it was a fun experience, it felt like i was playing one of those brainrot instagram tiktok reels where two boxes fight or stuff like that. The idea is great, game felt challenging and the pacing was good in the beginning but then i hit a wall until i upgraded the shield and broke the box. after breaking the box, my first run was 4:57 lol so I think there is a problem in such a big jump like max 3 to 5 which felt a fast jump for me. The game is definetly balanced and made to be challenging *in the box*, after breaking you can just survive 5 minutes easily. Oh and the red coin prices on some upgrades are absurd with respect to how much you are getting per run, it makes me wish that i could turn off the ""less easy bullets"" upgrade so that I can get more and easily buy all upgrades and such. A simple fix could be adding another upgrade in the later stages for the income of red currency.
+The game is too much centered on the shield use since one currency is literally gained by blocking with the shield which i didnt really enjoy cause I had to constantly use the shield to progress, instead of just playing how I like and popping it once in a while, there is a subtle feeling that forces you to use the shield since you know you need the currency. Which I think disturbs my normal flow.
+I yapped a lot but bottomline is buy the game, it was a good experience overall for such a price. I played to steam off between assignments with music (my own choice of music, sorry OST maker, i didnt listen to it once) on",True,1745154173,1,0,0.5,1,176,176,76561198285292568
+3327170,197069645,Gave me some Pony Island vibes here.,True,1749752630,1,0,0.5,0,261,585,76561198138966306
+3327170,211015110,"Not very long, but pretty fun",True,1764197424,0,0,0.5,0,216,216,76561198035599976
+3327170,212269700,Dodgeball in (cyber)SPACE!!!,True,1764577845,0,0,0.5,0,211,289,76561198086003552
+3327170,202130567,a fun a good game,True,1755199341,0,0,0.5,0,267,273,76561199886340364
+3327170,207815404,👍,True,1761679796,0,0,0.476190477609634399,0,245,245,76561199038004561
+3327170,199599244,"While I found the gameplay loop enjoyable, this game doesn't have enough in it to justify the 6 dollar price tag it has not on sale. Pacing is also not amazing, with myself and from I'm able to tell a good few others getting stuck at around 1:30 for a few dozen runs before the game rips the fat suit off and sprints the remaining time away once you break out of the 1:30 hole. I got the game on sale and enjoyed it enough, but I also recognize there are better games for cheaper. If the pricetag is putting you off, look at Nodebuster and Nebulock.",True,1752305172,2,0,0.523809492588043213,0,230,230,76561198097446598
+3327170,194242550,"Fun and cheap. Something to play in the background and/or if you're bored. Very addicting, but luckily short.
+
+Certified Skill Issue to those who couldn't even achieve the last currency, or beat the game for that matter. Its really short, so you don't have an excuse other than being bad.",True,1746392247,0,0,0.491803258657455444,0,277,277,76561198131125404
+3327170,192835959,"Solid game, short and fun. The last 10 or so upgrades are insanely grindy to get and it's likely you'll finish the game before needing to unlock them, but that doesn't really matter much. Pretty fun",True,1744764126,2,0,0.5,0,218,218,76561198282025160
+3327170,211796319,"Enjoyed this one. Taking the concept of dodging projectiles inside a tiny box and gradually improving with upgrades is pretty clever. There's even a solid ending with a logical progression. Only downside is the time-slow ability, which seems to be completely useless.",True,1764472873,0,0,0.5,0,233,233,76561198155759603
+3327170,197254284,Browser game testing reflexes.,True,1749941032,1,0,0.508474588394165039,0,217,217,76561198027299877
+3327170,193658447,solid fun.especially on the steamdeck. most balanced incremental game i played.,True,1745701642,0,0,0.5,0,283,291,76561198108595704
+3327170,199113471,"To be honest, I considered to give this game a thumbs-down. But since I got 3h out of the game (before I decided to quit playing because it became too frustrating) and I learned a lot from it, so I won't rate it negatively.
+
+But from the three active incremental games I played recently (Nodebuster, Digseum, Minutescape), Minutescape is the weakest among them by far (and I loved Nodebuster and Digseum). In my opinion it has flaws in how the core loop and upgrading is designed to work together, and the upgrade-tree is unsatisfying to use and confusing at times. 50% of the research (2/4) is useless for my playstyle and skill, and not seeing what I'm researching beforehand is bad.
+Ultimately I reached a point in where progress stalled and I could not upgrade anything meaningfully without playing the same thing over and over without anything changing. Maybe it's just that I made bad decisions in the upgrade tree, but I kind of doubt it, as I have almost everything unlocked except the things at the edge. So maybe it's only skill issue. I prefer these games to be more chill and relaxing, as were Nodebuster and Digseum. This here, in contrast, was more stressful and frustrating to me.",True,1751811584,5,0,0.583333313465118408,0,222,222,76561197962478819
+3327170,204237211,I escaped but not in a minute,True,1757770006,0,0,0.5,0,204,204,76561199148771482
+3327170,193015837,Longest 5 min game ive played... i like it!,True,1744979803,0,0,0.5,0,205,205,76561198048199859
+3327170,193201991,Changed my life.,True,1745169028,1,0,0.5,0,203,203,76561198189107929
+3327170,202032743,"Simple arcade-like game where you need to avoid getting hit and can buy upgrades like making you faster, the box bigger or increase your income to make your life easier. Simple, but fun.
+
+Don't see a lot of potential for long-term motivation, but ~4hours of fun for 4 bucks is alright.",True,1755077691,0,0,0.5,0,246,277,76561198087167732
+3327170,193262284,gud,True,1745239539,1,0,0.5,0,264,264,76561197999521432
+3327170,197957270,"game is fine, not sure what others expect from a 6.5$ game.",True,1750682407,0,0,0.5,0,231,234,76561198009782895
+3327170,197138113,Yess,True,1749827163,0,0,0.5,0,255,506,76561199404739540
+3327170,194445339,Fun time waster that can be picked up and put down when necessary quite easily.,True,1746667678,0,0,0.5,0,252,314,76561198075176939
+3327170,196281878,"this game was surprisingly fun and unique. I'd say it was better than Nodebuster (a previous game they made) because it actually required a bit of skill and strategy. I saw a negative reply before buying that said that this was basically just Nodebuster and took too long to get better skills and buffs but in my opinion they might've just been bad at the game, this game does require a little bit of skill but not an insane amount. If you dodge well you'll earn more points, simple as that. I've completed the game in under 5 hours so I don't know how someone thought that it took too long to get buffs and progress the game. Definitely worth the price, the developers did an amazing job with this game.",True,1748913107,1,0,0.513513505458831787,0,277,302,76561199225607648
+3327170,192919963,This game is teaching me how to last longer.,True,1744869334,2,2,0.52173912525177002,0,222,288,76561198123384971
+3327170,194270761,"I came across this game as a judge for an event I was participating in. I usually spend between 30 to 60 minutes on these kinds of events... suddenly I realized I'd been playing for four and a half hours. I think that says it all.
+
+The mechanics are simple, but everything surrounding it - along with an interesting and mysterious narrative - makes this little game a true gem.",True,1746427412,0,0,0.5,0,276,276,76561197997910241
+3327170,192932300,I really enjoyed the game. I think the progression is good-paced most of the time. Especially during the second hour the progress I made felt meaningless until I hit a certain threshold and it got better again. Again in the endgame the resources were very limited. I completed the five minutes before even coming close to getting all the upgrades missing especially reds. I think you should get more of those because you really need a lot. All in all I'd definitely recommend the game though I think that for the price set I would wish for some more content like a hard mode or something. Nevertheless I still had a blast with it in this state.,True,1744885865,0,0,0.5,0,213,392,76561198448875785
+3327170,203020505,"not an idler, no idea why its tagged as that, pretty fun short bullet hell challenge",True,1756347098,2,0,0.537836432456970215,0,261,261,76561198094782268
+3327170,193891756,you cube and skill,True,1746000084,0,0,0.5,0,240,240,76561198411680545
+3327170,198796561,It's a good game!,True,1751514183,0,0,0.456338047981262207,0,222,255,76561199812834079
+3327170,192873664,"Short, awesome game. Very cool take on the 'miniature upgrade game' genre, like those recent bite sized incremental games, but you gotta work for it this time yourself. My only complaint is that the upgrades get WAY too expensive near the end",True,1744816888,9,0,0.610542893409729004,0,207,226,76561198168249920
+3327170,193735288,"fun 2-3hr game, but can be grindy if you choose the wrong upgrades like me",True,1745786089,0,0,0.5,0,216,216,76561198450817005
+3327170,193141259,Great little game - the upgrade/difficulty curve is just right to feel like you're actually getting better at the game. I hope this will get additional content (the game itself has a proper ending though atm.),True,1745103751,2,0,0.547325074672698975,0,266,266,76561197982774491
+3327170,208357367,Great game for my purposes short though def beatable in <2.5h played,True,1762216476,2,0,0.554531455039978027,0,224,224,76561198134780242
+3327170,197287209,good game but it need end game content.,True,1749980917,0,0,0.5,1,252,316,76561199239348504
+3327170,201448434,"Really great game good for around 4 hours if you want to get all achievements, there were a few upgrades I didn't get so there could be maybe an hour or two if you stretch it. Game play is fairly fun similar to a lot of these ""arcade"" rogue likes",True,1754329212,0,0,0.5,0,238,272,76561198405137188
+3327170,202650651,Was a fun small game :),True,1755870906,0,0,0.5,0,280,280,76561197997515258
+3327170,202335572,"Simple loop, fun incremental",True,1755450759,1,0,0.523809552192687988,0,276,276,76561198017904125
+3327170,192983235,"The game is reminiscent of the minigame from Undertale, but still has some original ideas. A really fun game for an evening, but lacking in replay value.",True,1744938259,1,0,0.523809552192687988,0,217,217,76561198092500438
+3327170,194574073,"Fun incremental that has interesting upgrades
+Some later upgrades cost too much (supposedly fixed but needs a new save so doesn't apply to me)
+Can just git gud to beat the game without getting millions of resources worth of upgrades not unlocked",True,1746838860,0,0,0.5,0,219,219,76561198047269173
+3327170,200387180,good fun game I liked it,True,1753208601,0,0,0.5,0,274,274,76561198990273108
+3327170,194328346,"I don't think the grind is that bad, I beat it at 3.5 hours, and did not need to complete the whole tree. For the cost, its worth it if you like games that have lots of upgrades. you know if you're the type.",True,1746500991,2,0,0.523809552192687988,0,207,207,76561198028052663
+3327170,193493804,"Nice short game for a bit of fun without using much brain power. If you want to upgrade all meta progression it is quite a grindfest, but it's neither required to beat the game, nor for achievements, so I gues it doesn't matter. 
+Only found one bug that infinitely plays audio if you use charge at the end of the run / game",True,1745514689,0,0,0.5,0,239,239,76561198088385511
+3327170,193052026,"Stop reading reviews for this game and go dodge circles. You got this, buddy.",True,1745010970,1,0,0.508196711540222168,0,253,253,76561198035699192
+3327170,192865143,"I’ve got mixed feelings about this one. It took me around three hours to finish, and while I did have fun, some parts felt a bit tedious, especially grinding for certain upgrades.
+
+It fits well into the incremental game category, but unlike many others in the genre, it doesn’t really offer any replay value. Once you beat it, that’s it. No alternate paths, no different upgrade options, no branching endings, just game over.
+
+The music’s simple but pleasant, and there is a story… kind of. It’s more like three short sentences you unlock as you go, so don’t expect anything too deep.
+
+That said, I still think it’s worth checking out. There’s a solid foundation here, and with a bit more love from the dev, it could turn into something really cool.",True,1744808960,9,0,0.57687842845916748,0,211,225,76561198120157127
+3327170,192908861,"Solid little game. Took me about four hours to reach the ending, and that's with a meal slowing me down. Definitely worth it at 5 bucks. Wish there was a little more in the narrative tidbits, or perhaps a postgame about dealing with the context of the ending. Doesn't need much, since it's clear this was a very efficient work.
+
+Good job, and I hope to see this dev put more out.",True,1744853342,1,0,0.5,0,265,265,76561198037656321
+3327170,209611605,"If you want to play a game to pass time this is it, i had a good time while playing the game although i raged a few times, also love retro style, would recommend",True,1763544517,0,0,0.5,0,214,214,76561199148356433
+3327170,197582350,">turn off VCR effect
+>ez 100%",True,1750296197,0,0,0.5,0,244,244,76561198040602219
+3327170,197780782,"The game is slightly unbalanced with shield obviously being very powerful and the instructions for the lab quite unclear, but overall it is an amazing game with a good storyline. The graphics is very clean",True,1750505338,0,0,0.5,0,204,206,76561199767221527
+3327170,195502149,A good 3-4 hours of fun arcade style addictive gameplay with a bit of meta progression and a story to boot.,True,1748037164,0,0,0.5,0,284,284,76561198061520652
+3327170,207626325,"quite fun and most of the time kind of stressful! though the more you play it, the more boring it gets
+and there isn't much to do after you beat the game. and unless you are a godly speedrunner, you cant refund it after.",True,1761475534,1,0,0.523809552192687988,0,237,247,76561198810460383
+3327170,210564416,Not particularly long but worth the price of admission.,True,1764089532,0,0,0.5,0,282,282,76561198002646180
+3327170,192900850,"cool indi game , all skill base",True,1744842403,1,0,0.5,0,266,279,76561198059954707
+3327170,202470713,fun game,True,1755627805,0,0,0.5,0,276,313,76561199745018163
+3327170,192907723,"Current tag says it's an idler, but I've never fought harder for numbers in my life.
+
+Completed (but not 100%) in just over 3 hours. Easy to pick up, and a fun way to pass a few minutes at a time if you're idly waiting for something else. Is it revolutionary? Maybe not. But you get what you pay for, a simple bullethell with a chunk of progression to go through and some buttons to click. Try not focusing on the upgrades as your progression, but your best time.
+
+I'd say for 6 bucks, it's well worth stowing in the library. Sell some of those trading cards you have collecting dust, get an effective 20-40% off, and grab a neat casual bullethell game.",True,1744851751,4,0,0.533607661724090576,0,213,367,76561198179046413
+3327170,193529943,"It's short and relatively simple, but it's fine for its price. People who aren't good at bullet hell games will eventually get the upgrades to make it possible. It could use slightly more clarity on what some of the upgrades actually do and what your current stats are, but you'll work it out.",True,1745557588,0,0,0.5,0,277,277,76561197995336905
+3327170,212526075,it defintly gives me PTSD from sans but still it is an amazing game with a ton of upgrades,True,1764827797,0,0,0.463709652423858643,0,250,250,76561199133233911
+3327170,196938823,"Fun little incremental game! A good time travel game. Everytime I play, 20 minutes goes by!",True,1749612551,0,0,0.5,0,258,361,76561198025832047
+3327170,201212431,Fun!,True,1754056219,0,0,0.5,0,248,248,76561198091485700
+3327170,202065372,"Cool concept, a bit grindy at times, but overall I enjoyed it alot. takes around 3 hours to 100%",True,1755115172,0,0,0.5,0,240,240,76561198271097592
+3327170,193465178,Great :),True,1745484113,0,0,0.5,0,268,268,76561198131082928
+3327170,206703045,Good game,True,1760440528,0,0,0.5,0,253,253,76561198012267885
+3327170,195161268,"Great concept and overall execution. 
+I like the retro monitor look and the special humour.
+Downside: it gets a little too grindy after a while, at least for my taste.",True,1747587750,0,0,0.5,0,229,694,76561198054663322
+3327170,195192504,"Fun progression with interesting upgrades and twists through about 80% of the game. The last 20% felt a little bit like a slog, which is a shame because the ending sequence is really cool. But dying during it and having to restart didn't feel great, because the sense of ""what's around the corner"" faded away - the main driving force that kept me playing before then.
+
+I'm very glad I stuck with it though, finally getting to the end was a great moment. And the fact that any single run only takes a few minutes by design really helped me get over the hurdle.",True,1747625425,0,0,0.5,0,219,219,76561197995193554
+3327170,192899242,Fun game. Enjoyed the three hours it takes to finish it. Feels addicting to get all the upgrades so you can get further in.,True,1744840462,0,0,0.5,0,235,235,76561198015507421
+3327170,193579430,"great game over all. Definitly the best type of game to shut your brain off too and just let your reflexs take control.
+
+you get your moneys worth",True,1745614984,0,0,0.5,0,260,291,76561198072960803
+3327170,192824858,Pretty cool game,True,1744750427,4,0,0.523809552192687988,0,215,271,76561198157807045
+3327170,192870623,Ever heard of the line between genius and insanity? This is the [i]square[/i]... [i]and you know what that means[/i]. It's your turn now,True,1744814105,1,0,0.523809552192687988,0,263,263,76561198077136849
+3327170,194391467,"Didn't love it, didn't hate it.
+
+What you see in the video is the entire game. You're trapped in the white box as a green square dodging projectiles until they inevitably spawn too many and begin coming at you too fast for you to do anything about it with your current meta upgrade progress.
+
+You go for as long as you can, you inevitably die, you buy meta upgrades to add health, reduce damage, increase the square, increase your movespeed, and some other things. You also unlock ""Challenges"" which provide meta upgrades as well. However, this game isn't just about meta progression - there is skill involved and lasting just a few seconds longer can get you upgrades faster. That said, there are enough meta upgrades to make it impossible to fail after a long enough grind too.
+
+Again: not great, but not terrible.
+
+One thing I need to suggest to the developer is to support WASD controls - I played this entirely on a touchpad and my wrist hates me now.",True,1746592804,5,0,0.561826348304748535,0,284,284,76561197965738959
+3327170,196950849,cannot reccomend this game enough. it starts off really easy then it gets progessivly harder untill you are about to win and it gets impossivle without abilities. there are definatly strats that you can use to help you get further. this is also the longest five minutes ever :),True,1749629853,0,0,0.5,1,240,249,76561199030611333
+3327170,193224618,"Overall I enjoyed the game, it does have issues with slow progression and feels grindy at times from a combination of repetitive, difficult, and being in a no-win situation without sufficient upgrades.
+
+There's a few key upgrades that you need which are easy to miss, like you have to upgrade the shield a bit to reveal there's an upgrade to get the next currency whenever you block a projectile.  Because I didn't like the shield initially (the starting version is pretty much useless), I didn't upgrade it at all and hit a big grindy wall where I couldn't progress meaningfully anymore.
+
+At some point once you have the majority of upgrades and can dodge pretty much everything without abilities at all, the game gets a lot more fun.",True,1745189615,1,0,0.5,0,275,281,76561198011610434
+3327170,193141392,"It's a fun little time waster for a few hours. I finished the main objective in about 4 hours although I did not do the challenge modes yet. For $5 it was worth the purchase, but don't expect a lot of replay value once finishing it. It's like doing a 1000 piece puzzle, you enjoy seeing it through to completion and you get a good sense of accomplishment when you're done. But after that, it's time to move on to something else. I particularly liked some of the surprises the game throws at you when you're close to beating the timer.",True,1745103898,0,0,0.5,0,229,229,76561198053306908
+3327170,203532209,honestly a great game its just the end that gets grindy,True,1757016047,0,0,0.5,0,216,258,76561199753893871
+3327170,193430879,"Liked the game! Midgame feels a bit slows as more people already gave as feedback, but it didn't stop me from enjoying the game. If you get the hang of it and get a feeling with the abilities the end came fast enough for me!
+
+For the future some nice to have's:
+- Fullscreen 1440p lagged alot for me, not sure if it is a problem at my sight but in windowed mode it worked good.
+- Achievements for the challenges. (Made it to 4:30 in no ability mode would like to flex it haha)
+- Endless mode to see how for you can get when maxed out.
+- Maybe bosses. :)
+
+For now really enjoyed playing thru the game. Keep up the development and it will be an awesome game!",True,1745436331,0,0,0.5,0,267,267,76561198384004477
+3327170,195323610,really good,True,1747795728,0,0,0.5,0,239,239,76561199066269825
+3327170,193254001,"Amazing short game, worth the price",True,1745229773,1,0,0.5,0,270,270,76561198375714436
+3327170,209086480,,True,1763003004,0,0,0.5,0,222,222,76561197999883331
+3327170,192989395,"Fun little Undertale-like dodging game. Very simple, pretty fun. If you are good at bullet hell games then expect to finish in one sitting.",True,1744946199,1,1,0.508196711540222168,0,231,231,76561198009398567
+3327170,193099122,great little game.. simple short but fun,True,1745067633,0,0,0.5,0,315,315,76561197979869528
+3327170,195119356,poop,True,1747538141,0,0,0.5,0,511,622,76561199191868610
+3327170,193144974,"cool game, simple with good progression.",True,1745107069,0,0,0.5,0,297,297,76561197960447015
+3327170,193443461,Great game! Personally I think the 5 minutes is a bit easy to beat. I did it without purchasing a lot of the upgrades.,True,1745450879,0,0,0.5,0,1541,1541,76561198432295310
+3327170,197907367,Amazing game!,True,1750621342,0,0,0.5,0,400,488,76561198246565794
+3327170,197721477,"ignore my hour count, i left the game open over night a few times.
+
+It's hard to decide on whether I recommend this game or not, because I think the general idea is really fun and I like the upgrade system to an extent, but man is it drawn out. I know it's an ""idler"" game but the amount of money you need for upgrades quickly becomes out of hand and it kind of forces the gameplay to slow down to a halt until you can buy another upgrade to get 5-10% better stats for one particular thing. That being said, the game is less than $5 and you get what you pay for.",True,1750442336,0,0,0.481481492519378662,0,1220,1320,76561198133319876
+3327170,199773198,Game is aesthetic and fun for a while but after 40 minutes it's mostly grind.,True,1752486998,11,0,0.649089574813842773,0,294,340,76561198063996162
+3327170,207005792,"A nice game for a short while. Depending on your skill it will take a different amount of time until the gameplay is just repetitive, but at some point it will. But nevertheless, fun for a while at a decent price.",True,1760793600,0,0,0.5,0,291,291,76561197983874788
+3327170,207200612,"Suprisingly nice game! It scratches the itch of typical incremental games paired with an unusual shortness (in the positive sense). What starts off as seemingly impossible turns into surmountable, and trivial in a very reasonable amount of time. Even if you're compelled to unlock everything (which is not strictly necessary to complete the game), you will still be finished in less than ten hours.",True,1760997852,1,0,0.523809552192687988,0,409,409,76561197986952100
+3327170,197344489,Makes me think of The Perfect Tower if it was bullet hell,True,1750034198,1,0,0.5,0,558,561,76561198141678165
+3327170,196491964,"[h1]FIRE GAME[/h1]
+[h2]Looking forward to more updates![/h2]",True,1749161854,0,0,0.5,0,482,513,76561199171588380
+3327170,202091014,"Minutescape is a deceptively simple game that manages to deliver a deeply engaging, reflex-driven experience by stripping gameplay down to its bare essentials. You don’t shoot, attack, or build anything—instead, you survive. That’s it. The entire objective is to last five minutes inside a constantly shifting bullet hell arena where projectiles, enemies, and hazards come at you from every angle. You control a small shape, dodging with precision as the intensity ramps up over time. This core mechanic—minimalist as it may be—quickly reveals a surprising amount of depth and tension. It’s one of those rare games where doing less makes you feel more.
+
+What elevates Minutescape beyond a basic arcade dodger is its synergy between real-time skill and long-term progression. Every run earns you currency that feeds into an extensive upgrade system, allowing you to slowly mold your avatar into a more survivable force. Speed boosts, hitbox reduction, temporary shields, and time-slowing abilities all become tools in your kit, and choosing how to allocate your points becomes a compelling part of the experience. The more you invest, the more dynamic your runs become, as you test new combinations and slowly work your way toward the elusive five-minute survival goal. It’s a clever feedback loop that encourages both experimentation and mechanical improvement—your reflexes matter just as much as your build.
+
+Each run begins with a calm sense of possibility, but that peace doesn't last long. The arena becomes progressively more claustrophobic as new projectile types are introduced. First come the simple red bullets; then chasers, laser walls, rotating patterns, and even shrinking safe zones start forcing you into tighter movement spaces. The escalation feels carefully calibrated. At around 90 seconds, the difficulty curve jumps significantly, and if you haven’t upgraded wisely or mastered evasive techniques, your run ends fast. This pressure creates an addictive tension—the “just one more try” sensation that defines a good roguelite. You’re constantly learning, not only how to react but how to prepare.
+
+Visually, the game keeps everything clean and focused. The color palette is muted but distinct, which helps readability in a chaotic environment. Projectiles and hazards are clearly telegraphed, and the UI remains unobtrusive, letting you keep your attention on survival. The minimalist aesthetic may not stand out in screenshots, but it’s extremely functional and contributes to the tight, focused feel of the game. Sound design is similarly streamlined—audio cues are subtle but useful, and the music loops help keep you in a state of concentration without becoming distracting or repetitive.
+
+Despite its low cost and small file size, Minutescape feels polished and thoughtfully designed. It supports keyboard, mouse, and full controller input, and it's accessible across platforms with strong performance even on low-end machines. The game has benefitted from its developer's responsiveness to player feedback during early access and demo phases. Features like customizable controls, visual tweaks, and balance adjustments were added based on real-time community input, which gives the game a more refined feel than many small indie titles in the same space.
+
+Player feedback has been mostly positive, with many praising the game’s pure focus and satisfying difficulty. The Steam reviews highlight the game’s tight controls, the addictiveness of the five-minute loop, and the sense of accomplishment that comes from squeezing through the chaos with only seconds remaining. However, some criticisms do emerge—chiefly that early progression can feel slow, especially before key upgrades unlock the more interesting abilities. Others note that the gameplay loop, while well-executed, can start to feel repetitive over time, especially for players seeking a broader variety of modes, enemies, or mechanics.
+
+Still, these issues don’t detract much from what Minutescape sets out to be. It’s not pretending to be a sprawling adventure or a feature-packed sandbox. It’s a game about movement, reaction, and resilience. Every second survived is earned, and every failure teaches you something. It’s challenging without being punishing, fast-paced without being overwhelming, and minimalist without being empty. For players who enjoy distilled arcade experiences, where your success hinges entirely on focus and timing, this is a compelling and affordable option.
+
+Ultimately, Minutescape thrives by knowing exactly what it is and committing fully to that vision. It doesn't waste your time with fluff or filler—it gives you a simple task and dares you to get good at it. As you inch closer to the five-minute mark, with projectiles closing in from every direction and your screen pulsing with tension, you start to realize how much can be done with so little. It's a stripped-down, high-intensity survival challenge that demands attention and rewards persistence. And for players who enjoy that kind of test, Minutescape more than earns its place in the bullet hell roguelite pantheon.
+
+Rating: 7/10",True,1755150133,0,0,0.476190477609634399,0,700,1157,76561198367471798
+3327170,196403283,"Needs infinity mode ASAP. Game should not end after 5 minute survival time, challenges shouldn't end after 5 minutes either, let us keep going, growing, becoming stronger.",True,1749065736,0,0,0.5,0,838,1546,76561198356715467
+3327170,199003514,What's in the box?,True,1751709693,0,1,0.456338047981262207,0,381,381,76561197970734320
+3327170,193461102,longest 5 minutes of my life,True,1745478998,0,0,0.5,0,342,342,76561198044466678
+3327170,192933970,"i played the demo completely when i first saw a video on it a few months ago, and it was pretty fun and promising then, and id say this is more or less on the level i was expecting. very simple controls make it accessible to nearly all, with a pretty enticing premise and game-play loop for fans of games such as Undertale like myself, though with next to no story. the time stamps at which new things are presented to the player are reasonable as well, though i feel like there could've been a few more things, though at the cost of less of everything else, to spice it up somewhat, though at the 4 minute mark i was genuinely surprised in a good way at what the game did.
+
+a few things to critisise though, is when i said nearly accessible to all, i did mean anyone with a mouse, but if you're on a laptop like me, and don't have a proper mouse, and only a touch-pad, then using whatever ability you have on right click is going to feel poor to use throughout a run, if you even use it at all. for me personally, i only used the shield on left click, though i had the screen wipe ability on right click, but only used it to prolong the final section.
+which leads me into my next little peeve being that one of the resources was tied to the shield ability, made me feel like i HAD to use it instead of either of the other abilities by the time i unlocked it. mixed in with the fact i could ONLY have one effective ability per run, i felt like i couldn't choose anything else, which i know most players wouldn't feel that way, with my circumstances probably being a decent minority of people, but its still something id like to point out.
+one last thing is that costs for different upgrades definately needs work, which the dev has said they are, which is good, but some examples being that it takes about 3 runs to buy anything with red in late game, and also having nothing to buy with purple at late game either.
+
+all in all, still a solid experience, was easily able to 100% in about 3-4 hours and was fun for the most part, and would be a lot of fun for any Undertale fan that has a proper mouse. I'd give it about an 8/10",True,1744888246,1,0,0.5,0,351,351,76561199106658764
+3327170,193823956,"I'm really just not good enough to actually beat it, but it was a fun experience none-the-less. Even if I can't beat the game, I got plenty enough fun out of it for the price.",True,1745909011,0,0,0.5,0,339,339,76561199243224012
+3327170,193147586,"[h3]Pros:[/h3]
+[list]
+[*]More involved than most idle games, which is a nice change.
+[*]Skill tree adds some depth and makes you think a bit.
+[*]Simple visuals, but they get the job done.
+[*]Story is decent and gives some motivation to keep going.
+[/list]
+[h3]Cons:[/h3]
+[list]
+[*]Progression feels slow—grinding doesn’t always feel worth it.
+[*]Some weapons aren’t very useful or just kind of boring to use.
+[/list]",True,1745110434,0,0,0.5,0,312,312,76561198044100305
+3327170,202309106,This game increments.,True,1755423452,0,0,0.5,0,305,305,76561199402563561
+3327170,202840534,I really suck at dodging. But just had to keep going :),True,1756110232,0,0,0.5,0,659,659,76561198001747597
+3327170,201557348,"1 wrong decision and now im stuck in this game, please someone win this game and free me, i am waiting for you <3",True,1754470545,1,0,0.523809552192687988,0,309,309,76561198180873055
+3327170,202927212,One of the better of the genre.,True,1756225702,0,0,0.5,0,286,286,76561198006352607
+3327170,196910487,"really fun, wish there was more to do tho
+unlocked all upgrades quite fast",True,1749582003,0,0,0.5,0,3457,3457,76561199647642508
+3327170,202090941,probably doesnt make your aim better,True,1755150017,0,0,0.5,0,305,305,76561198044761761
+3327170,192930365,"Cool indie game, its easy or not so easy depending on your skills and understating of the game (read the hints and break it!) 
+You can finish it before buying all the upgrades, so maybe the DEV can balance things out, add stuff, and why stop at 5min, go for 10, 15 xD",True,1744883086,6,0,0.593881845474243164,0,327,327,76561198072413819
+3327170,202729720,good,True,1755969329,0,0,0.5,0,491,578,76561199781068296
+3327170,200599764,very nice,True,1753384239,0,0,0.5,0,828,873,76561198038644755
+3327170,194497670,"Overall - not a bad game. A bit of fun for one night. I like the concept and simplistic design.
+
+[Spoilers ahead ??]
+Suggestions from my experience :
+1. Would be great to unlock a true endless mode after reaching the 5m mark
+2. Some way to see your current upgrade level? After upgrading a given box to max the specific value disappears. Maybe less important for things like speed but more important for things like health
+3. Lowkey expected a tiny bit more from the story. Maybe some hidden mechanic. etc",True,1746737148,2,0,0.538461565971374512,0,296,311,76561198129965108
+3327170,193211094,"A fun, challenging, and short game.
+
+Great replayability.  Worth the Price.",True,1745176748,1,0,0.5,0,345,345,76561198057645190
+3327170,207802216,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,True,1761669406,0,0,0.476190477609634399,0,290,325,76561199560559615
+3327170,193981113,{°°°},True,1746110937,0,0,0.5,0,775,775,76561199549403717
+3327170,201272340,"""Don’t let its simplicity fool you—this game is packed with the kind of classic charm that’s hard to find these days. The moment I started playing, I was hooked. There’s something strangely captivating about it, like a puzzle you can’t stop trying to solve. And when I finally pulled myself away, I couldn’t stop thinking: what was I doing? What a secrets ESCAPE!""  3.5 of 5 Stars",True,1754126910,0,0,0.5,0,412,412,76561199847848173
+3327170,193224698,"I love Molter's games. Lovingly hand crafted with a creative twist on the formula.
+
+Nice difficulty curve, probably took me longer than someone with better reflexes, but with enough upgrades I could finish",True,1745189717,1,0,0.5,0,355,355,76561197995178874
+3327170,193530206,"Fun bullet hell that has a great progression curve, with minimal grind! 
+
+You'll certainly enjoy it for the 3-5 hours it takes you to survive for 5 straight minutes. 
+Two of the powers are pretty mediocre, so there's some missed points there, but it doesn't affect gameplay. 
+
+8/10",True,1745558026,1,0,0.523809552192687988,0,333,333,76561198079254367
+3327170,193008955,"pretty neat game, fun gameplay that doesn't get too repetitive. Takes about 4-5 hours to beat. Definitely worth to pick up on sale.",True,1744971808,3,0,0.508196711540222168,0,295,298,76561198985527529
+3327170,202462871,"Small game, was able to 100% in just under 5 hours.  Fun, lots of upgrades, gets a little grindy but that tends to be the formula in games like this.  There is some replay ability with some boss challenges as well.  Overall for the price its a decent little indie game.",True,1755619680,3,0,0.54703831672668457,0,292,292,76561198125957762
+3327170,201528488,It's alright (6/10),True,1754427292,1,0,0.484918802976608276,0,364,364,76561198878187224
+3327170,200451748,"I liked this, most for the incremental part then the bullet hell one, which is not my dig.
+Fun to play in short sessions",True,1753291121,0,0,0.5,0,379,379,76561198052360044
+3327170,210874312,Very relaxing mini game,True,1764165579,0,0,0.5,0,448,449,76561199108176653
+3327170,192826997,Minutescape is a fantastic bullet hell with roguelike elements. I feel like I am microdosing on Enter the Gungeon.,True,1744752694,3,0,0.5,0,348,637,76561198101637710
+3327170,199318158,"I... I DID IT. YOU CAN'T BELIEVE IT. YOU'RE FINALLY FREE. [color=RED]YOU ARE INDEED. AND YOU KNOW WHAT THAT MEANS. [/color]  ... [color=RED] NOW IT'S YOUR TURN.[/color] 
+
+Indescribable.
+
+WE NEED MORE CONTENT",True,1752009010,2,0,0.49227491021156311,0,631,631,76561198992161881
+3327170,192972506,"Rather fun to start, upgrades do start taking a little longer mid to late game than they should, requiring multiple runs to upgrade a minuscule boost once with a severe red currency shortage holding nearly all upgrades up by the end.
+
+I still had a significant portion of the tree completely undiscovered by the time I completed the game, and each subsequent run *must* be stopped before finishing again or you're stuck in the unskippable ending sequence. Definitely recommend a post-game endless mode.
+
+Short, but altogether a fun game. It is funny though how the game expects you to have one upgrade by a certain point that I never picked up before finishing. 
+
+Not sure however why the game has the Idler and Clicker tags considering you don't idle or let it play itself, you dodge or block the entire time. And you don't really do anything clicker related other than technically clicking to activate an ability.",True,1744925683,1,0,0.523809552192687988,0,298,321,76561198026885765
+3327170,193038081,"nice game, but i liked nodebuster more",True,1744998764,0,0,0.5,0,370,370,76561198129771777
+3327170,194333788,game game gamge gamgegame,True,1746510968,2,0,0.484015524387359619,0,308,308,76561199065633548
+3327170,197265971,One of the best shortish games i've played,True,1749955230,0,0,0.5,0,444,445,76561198359339742
+3327170,198757041,One of my top incremental games.,True,1751477673,0,0,0.5,0,611,923,76561199767378065
+3327170,192829176,"I enjoyed it a lot. I enjoyed it so much that I've finished the main objective (surviving 5 minutes) in one sitting, which took 3.5 hours.
+
+It's not a long game by any means, but it scratched that itch for the type of gameplay that I seek: getting incrementally better every run, without depending on BS RNG, but on your own skill. I have over 60 hours in Super Hexagon, and Minutescape made me fall in love with this kind of gameplay again.
+
+The challenge section is a great addition, and the bonuses you get for long survival times are well balanced. You can even jump from one challenge to the other, because one's reward lets you get a better time at another.
+
+I mostly used the shrink and shield ability, as I didn't find any use in the shockwave one - it takes WAY too long to charge to be remotely useful. I also found the descriptions of some upgrades to be vague and puzzling. I'm still not 100% sure what some of them do, but hey, I beat the game even with an incomplete upgrade tree.
+
+I feel that even though I've finished the objective, I will keep returning to Minutescape to unlock the remaining upgrades and try my best at challenges. Maybe I'll give the shockwave ability a chance, too. Anyway, for me it was lots of fun at an adequate price.",True,1744755292,2,0,0.5,0,470,470,76561198025705279
+3327170,194021314,"I beat the game in 7 hours. It was so incredibly worth it imo. If you think the progression is too slow, turn off your TikTok brain and get the damn cube out of the square. 
+
+This is the type of stuff they were doing on the Severance computers.",True,1746152825,4,0,0.537313401699066162,0,446,446,76561198299004310
+3327170,193008010,"Very straight foward. Gets a little grindy toward the late game, but overall enjoyable.",True,1744970525,2,0,0.508196711540222168,0,327,327,76561197996674379
+3327170,198872604,"can be boring and repetitive but it is still fun, it isnt the type of game to play for a whole day, more like a 30 minute-1 hour a day imo
+(it gets less boring later in don't worry)",True,1751583020,0,0,0.5,0,425,488,76561199215839965
+3327170,192898060,"A fun, really clever little game with perhaps a slightly high price for how short it is.
+
+At $3 this would be a very great game to grab.  My only real complaint is that the snowball effect in this game is very pronounced.  Once you get powerful, it snowballs to the end pretty quickly.  No time to enjoy the power and tweak things.
+
+4/5 - A definite recommend.",True,1744839104,1,0,0.523809552192687988,0,1331,1345,76561197999394473
+3327170,198076646,Fun little incremental bullet hell game~,True,1750812199,0,0,0.5,0,618,618,76561197992887982
+3327170,193148650,"It's short and simple, but fun. Beatable in 5 hrs",True,1745111823,0,0,0.5,0,311,311,76561198010740644
+3327170,205892650,"I enjoyed myself! The game doesn't outstay its welcome, and some of the QoL features were very appreciated. Recommended.",True,1759611588,0,0,0.5,0,313,313,76561199531969393
+3327170,197394267,gud,True,1750095660,0,0,0.5,0,295,361,76561198067549531
+3327170,197385648,now im stuck here... Someone please free me. free me. free me. free me. free me. free me. free me. free me. free me. free me. free me. free me. free me. free me.,True,1750087927,0,0,0.5,0,288,288,76561199076972702
+3327170,204716138,"Games is fun but the last upgrade to earn more point to spend it are way too big, which makes you go for them last and therefore not needed anymore.",True,1758305688,0,0,0.486111104488372803,0,455,457,76561198003565373
+3327170,192972659,"Minutescape brings a refreshing element of precision and skill into the incremental game genre. The game loop centers around going in and out of a ""simulation"", with breaks in between to upgrade abilities and attributes for your character. What separates this game from others in the genre is that the player has as much room to improve at the action portion of the game as the character does in the upgrade portion of the game. The gameplay's reliance on your reflexes and strategy is what keeps the experience fresh and rewarding.
+
+The game is short, and depending on skill might take 3-9 hours to beat. Though there is an element of grind that can make the game feel like it's dragging at certain points in the progression, it is minimal and more engaging than the the grinding required for most incremental games.
+
+One element that really hooked me was the vibe of the game - though it uses very limited storytelling devices, the look and feel, music, and text dialogue create an eerie, retro-dystopian feel, reminiscent to shows like ""Black Mirror"" and ""Severance"".
+
+The low price is fair for the interesting concept and the 5-10 hours of engagement it offers if you opt to fully complete it.",True,1744925853,0,0,0.5,0,585,585,76561198929892121
+3327170,209503510,Survive the bulletstorm for 5 minutes. Easy.,True,1763419578,0,0,0.5,0,291,291,76561197997555429
+3327170,192844406,Great game! Had a lot of fun with it and believe it was worth every penny.,True,1744776144,4,0,0.5,0,424,424,76561198107203148
+3327170,198686807,"the under 6 hour 100% was worth wanting to pull my hair out after like four dozen stalled out runs at 1:30
+
+also the time machine is made of LIES",True,1751410514,3,0,0.536245405673980713,0,320,320,76561199108768146
+3327170,193105632,"Thanks for making it available on mac os
+Simple but addictive",True,1745073459,0,0,0.5,0,332,332,76561198805557317
+3327170,196615266,"Do you wanna have a bad time kid
+- sans",True,1749296219,0,0,0.5,1,323,496,76561199267507410
+3327170,210987856,This was a game that I could not put down. There was never a point that I felt where the game slowed down it always had just enough in reach for me to keep playing. I did enjoy this game a lot and wish there was more to play like a prestige or something. ( How that would be down I don't know but it would be super awesome if it were possible ) Thank you for the hours of enjoyment.,True,1764189125,1,0,0.5,0,381,381,76561197978286855
+3327170,202428932,"I just play it sporadically. I like just mindlessly dodging the attacking symbols.
+
+I've gotten up to 2:25, and it feels a bit grindy to get further.
+
+There are some issues with controller support. When using an external controller, it seems to never want to work, and I have to override everything via the SteamInput and the WASD/mouse layout. Which isn't as nice as the built-in controller support.
+
+It is above average, and I'm happy I spent $5 USD.",True,1755570952,0,0,0.5,0,407,411,76561198002155069
+3327170,193826734,"Great Incremental Bullet Hell game!
+Plays just like the demo and videos, and has some nice lore; feels a lot like the Matrix.
+Would recommend",True,1745914019,0,0,0.5,0,378,835,76561198346001192
+3327170,202353553,Nice game,True,1755469417,1,0,0.523809552192687988,0,345,345,76561198125897121
+3327170,202784110,Pretty good and short game and its worth the money as least and managed to keep me occupied for the whole time so get it if you like Vampire Survivor type of game,True,1756039824,0,0,0.5,0,303,303,76561198196283623
+3327170,192938014,"I've played through and beaten the game a few times now, it was really enjoyable and interesting. I like the aspect of skill, and I will definitely be moving on to challenge runs and speedrunning for this game!",True,1744893398,2,0,0.5,0,699,1319,76561198963049856
+3327170,197296263,it's really fun and has some good lore. though you do need some skill,True,1749990218,0,0,0.5,0,300,353,76561199799100564
+3327170,192895868,"Very addictive game. Each round, you get a bit better and eventually beat the main goal: survive for 5 minutes. After that, there's little left to do, and some late-game upgrades feel very unbalanced. Still, it guarantees 3–5 hours of simple, pure fun.",True,1744836699,1,0,0.5,0,382,643,76561197971366240
+3327170,200690854,"Really fun little incremental game. It's only flaw is its lack of replayability. I beat it in about 10 hours, and there isn't much to be gained by playing it again. You know what you're getting, and for $6.00, it does everything that defines this genre really well.",True,1753466358,0,0,0.5,0,609,609,76561199096711977
+3327170,193228018,Sucks you in and you lose track of time cheap little game but high in value!,True,1745193869,1,0,0.5,0,385,455,76561197988358101
+3327170,201661165,"Very challenging incremental game based on quick reflexes. It has a constant sense of reward during the 5 hours that will take.
+The game humilliates you at the beginning xd",True,1754599579,0,0,0.5,0,296,296,76561198829089088
+3327170,193098017,wow such good game worth my money.,True,1745066519,0,0,0.5,0,313,415,76561199745568474
+3327170,193182865,9.5/10. Very Fun Game,True,1745152514,1,0,0.5,0,438,438,76561198055499782
+3327170,203259279,perfect for listening to a podcast in the background,True,1756652280,1,0,0.49824562668800354,0,333,333,76561198279893293
+3327170,194484491,"Probé el juego en la RetroBarcelona me parecio guay, me lo compré y me lo he pasado en 3 dias, la verdad que es muy simple y en dicha simpleza esta su virtud. Bueno bonito barato. Absoluto juegardo must have.",True,1746723215,0,0,0.5,0,322,322,76561198020264853
+3327170,199519726,"The overall game is okay, but the constant belittling you get every time you die ruined it for me. I'm playing the game to have fun, not to be insulted.",False,1752222514,12,5,0.566992104053497314,0,46,58,76561199208179918
+3327170,199338471,"Progress is slow. Loop is boring. Insulting game over text is cringe. Music switching between upgrades and play is unpleasant.  
+Price is steep for level of quality.",False,1752030855,5,0,0.494401216506958008,0,7,7,76561199058849286
+3327170,196921567,"i dont know what is the problem, but when i finish my run game glitches and dont go any further. it used to work good while i was playing demo and when i bought the actual game it does not. So sad...",False,1749591895,1,0,0.517241418361663818,1,5,14,76561199105095639
+3327170,197953824,"Fairly unpleasant and repetitive gameplay loop that hearkens back to being picked last for dodgeball, except you're old now and the nightmare repeats every 30-60 seconds, forever. Since this copies the aesthetic and style of Nodebuster, you are better off playing that game, which is both cheaper and better designed.",False,1750678740,0,1,0.5,0,64,1192,76561197975050062
+3327170,192817577,"The demo was alright the rest is not.
+Dev said the length of the game should be around 3.5h which makes it a bit expensive.
+Then again, I'm all in for supporting indie devs but...
+
+- You can not get your demo data to the game. 
+-Using the mouse to move is great and all, but having the movement speed limited makes it more frustrating than anything. Upgrades that increase movement speed only makes you feel ""alright"" until you try to move your mouse a bit too quick and get back to that ""hampered"" feeling.
+- The pacing of the game is really slow, even slower than the demo, it's like the dev want you to at least spend 2h before finishing the game. 
+- The upgrade are mostly stats based and there isn't much to truly change the gameplay.
+- Most upgrade are blocked until you do a lot of the same one around, so the tree is quite directive. Also it's not like you can make a choice since most upgrade are hidden until you get close to them anyways...
+- A lot of the time you can't advance even being goodl, you just have to die and grind...a lot!
+
+Overall I'm a bit sad, I had high hopes for the game because the first few minute feels great and novel, but there isn't much more to see.
+
+
+Note: At the time of posting (1h45 after release), there are two positives review saying that you can complete the game using differents paths (did they get the game earlier? since they wouldn't have the time to complete it...). This sounds weird since the upgrade tree is quite directive. Both of them have only ever made 2 reviews, one has a private profile, the other is friend with the devs. ~o~",False,1744743008,69,2,0.685966908931732178,5,76,76,76561198013065007
+3327170,193063557,"The progression is slow and unrewarding. 
+
+The premise and gameplay is nearly identical to Nodebuster, which provides a far more entertaining gameloop",False,1745024150,19,1,0.710972905158996582,0,88,88,76561198098605947
+3327170,207252372,"I dont like this game because the upgrades suck in value in my opinion, and it is the type of game that leaves a negative comment when you die. For example, instead of telling other players to ""do better"" try telling yourself to ""do better"" making this game. The reason ive barely played is also because of these problems, especially the negative comments.",False,1761067888,2,3,0.5,0,24,27,76561199642378832
+3327170,192932987,"Super grindy, I hate how you start at 0 minutes each time because at this point I breeze past the first minute and die within about 10 seconds after the first minute. So I'm basically just waiting for a minute each time I start a session and it's pretty boring at this point.
+
+Some of the upgrades just require you to constantly play again and again, barely getting any better just to accrue more upgrades, the progression is unreasonably slow.
+
+Also, the performance is nuts, I get frequent (as in every few seconds) micro-stutter/micro-hitches in the game. I'm playing with a 4090/7800X3D/64GB DDR5. It's nuts that this game, so focused on smooth movement, is getting such constant micro-stutter.
+
+I had high hopes for this game, wishlisted it since I first saw it on r/incremental_games, but man is this disappointing. I love fast paced incremental games with huge skill trees, it's a shame",False,1744886911,12,1,0.647490501403808594,0,77,210,76561198012498116
+3327170,193171385,feel like my parents mocking on me,False,1745139837,1,0,0.5,0,11,11,76561198036904258
+3327170,196407747,"Im not very ""skilled"" so it seemed really grindy.  I think they should rename it Anxiety Machine.",False,1749069555,0,0,0.5,0,25,25,76561197976926313
+3327170,198757519,"Was what I expected, but wasn't how I thought I would like it. Play this game only if you want to tryhard.",False,1751478031,0,0,0.5,0,76,76,76561198031078442
+3327170,197863474,"Frustrating compared to Nodebuster, annoying gameplay loop that just doesnt scratch that itch.",False,1750585232,0,0,0.5,0,18,18,76561198036178525
+3327170,201405292,This game simulates that dream that you can't effectively throw a punch. It makes me feel like garbage and don't really recommend. Find a game that is fun.,False,1754272803,5,0,0.60592418909072876,0,90,90,76561197979987597
+3327170,194017739,"Cons:
+-Lacks any meaningful player agency
+-Progression vs skill expression is meaningless
+-Progression is too slow
+-Progression curve feels bad for the clicker/bullet hell survivor genre
+-Soundtrack becomes annoying quickly
+-Lacks interesting flavor or story to rely on in lieu of uninteresting game design
+
+There are many better alternatives, buy one of them instead.",False,1746147785,4,0,0.462555825710296631,0,66,66,76561198189001213
+3327170,212706121,probably one of the most slow paced boring games on earth,False,1765039858,0,0,0.5,0,29,29,76561198870223324
+3327170,193050371,Why is NJWS running after I closed the app. Why does the shortcut not launch. Why does the C drive exe file not launch every time. It crashed 20 mins in as well. Why is my computer telling me it's blocking public/private network access to NJWS.,False,1745009363,1,0,0.508196711540222168,0,24,24,76561198050084392
+3327170,204555106,this game is not worth it if you are wanting a chill incremental game its very hard the upgrades are bugged sometimes and it even disses you when you die almost like the devs dont want you to play it,False,1758120280,1,2,0.470901906490325928,0,52,52,76561198977579451
+3327170,193348901,grindfest,False,1745341892,0,0,0.5,0,48,48,76561198003208993
+3327170,201119199,"This game would be great if the main gameplay loop didn't get old after the 20th time you play and fail to hit 2 minutes even after buying a ton of upgrades. The further you progress in the game the less upgrades do for you and the more time they take to unlock. Mostly the same boring upgrades repeated over and over too.
+
+The game definitely needs to just slash the cost of later upgrades significantly if they're going to do so little. Then it at least will feel like you're making progress. Buying 1 upgrade after saving for a few rounds just isn't fun at all.",False,1753939783,0,0,0.481481492519378662,0,106,167,76561198033664435
+3327170,192911759,"Starts off fine, but I always seem to die at the same time no matter how well I'm really doing until I get upgrades to push. But the cost of the upgrades relative to the time I'm dying usually means I have to grind for several 80 second runs just to afford not very good upgrades that are (possibly!) locking the way to useful things. Like the fundamental problem with the game is that it has badly tuned numbers, I think. Games like this are only fun because if you do well you can afford a cool new upgrade--if you have a round where you do as well as you possibly can and you come back to the shop and can't buy anything, then your 2 hour indie game is badly balanced.",False,1744857430,2,1,0.505776643753051758,0,57,57,76561197960279889
+3327170,193449649,too active for an 'idler' imo,False,1745459877,0,0,0.453333348035812378,0,10,10,76561198034612276
+3327170,192960349,"Why didn't I listen to the reviews? What's wrong with my brain?!
+
+I immediately hate this game, gameplay sucks is an understatement.
+
+You move a square around a box and avoid objects for points, upgrade, then repeat.
+
+That's the game.",False,1744914723,4,0,0.490993678569793701,0,16,124,76561197969571435
+3327170,198543817,"honestly this game is extremely boring after like 1 hour of playing. its so very repetitive
+
+die upgrade die upgrade etc",False,1751283146,0,0,0.5,0,83,83,76561199689039938
+3327170,212742712,Buggy mess. Coin toss on the game either softlocking or crashing after less than a minute.,False,1765075931,0,0,0.5,0,5,5,76561198251681308
+3327170,209966071,game open web browser to steam store page for a different game from the publisher on exit every time.... gross,False,1763931651,7,0,0.624505937099456787,0,170,188,76561198028862099
+3327170,193060559,"extremely boring really, you dont do anything, I dont even get the idea, what is the point, all you do is just repeat the same minute to 90 seconds hundred of times until you can unlock the next thing that allow to scrap a few more second of survival.
+this is so ridiculous and empty shell of a ""game""",False,1745020130,4,0,0.580652892589569092,0,154,154,76561197966108393
+3327170,192843996,"Extremely short. Was a decent first hour, glazed through the second hour trying not to fall asleep, third hour was a little more interesting as things opened up....and then it's done. Felt more like a Game Jam demo. Not worth full price. Perhaps half, but that's generous in my opinion.",False,1744775510,30,2,0.688268899917602539,0,183,183,76561198117956379
+3327170,193008721,"The game is a fun little time waster but nowhere near worth the price they are asking. You can basically complete the whole game in about 3 hours, and over this duration the gameplay barely changes at all. The basic loop exists out of you dodging enemies, with different ones being added at certain time milestones. These enemies are pretty much the same with a few tweaks to them. Besides this, the game has a very basic upgrade system which increases your stats and adds 4 basic abilities (of which you will pretty much just use 2).
+
+Once you reach a certain point in the game it also becomes way to grindy as you have to keep replaying from minute 0 and doesn't give enough clarity on what to do. To progress further you need the 3rd ability as this generates the 4th currency, but this is only made clear after you bought it.
+
+The game also heavily uses the same (free?) graphics set as Time Warpers and Time Idle RPG, which to me makes this game once again way too overpriced. To me this makes it a $2 game at most, so I would recommend buying it only during heavy discounts.",False,1744971503,1,0,0.523809552192687988,2,212,212,76561198151916737
+3327170,197555261,"The game is extremely slow-paced, even for its genre. The core gameplay loop becomes repetitive after just a few attempts. With proper pacing, you could finish the game in around two hours—but it feels intentionally stretched just enough to push you past the refund window. 5/10",False,1750267744,10,1,0.652177095413208008,0,188,188,76561198120345886
+3327170,201510347,"I love simple games, but this one didn't quite grab me. It's very demanding, but its content doesn't adequately compensate for the difficulty level. It feels like another variation on Nodebuster, with the obligatory old CRT screen effect, which I assume is meant to convey the impression that the developer put some effort into the game's visuals.",False,1754408838,10,0,0.650764942169189453,0,148,148,76561197965426849
+3327170,192954286,"The game is amazing and has a lot of potential, but it starts lagging a lot as you progress further. I really wanted to recommend it to my friends, but the lag issue ruined the experience. The red circles sometimes freeze for a split second before moving again, which makes it frustrating to play.",False,1744909152,3,0,0.502142786979675293,0,152,153,76561198002597317
+3327170,193442143,The flow of the game could be a lot better,False,1745449065,0,0,0.5,0,148,148,76561198365359104
+3327170,194462062,i can run games like space marine 2 flawlessly and yet this game right here has taken my frames down to single digits so i don't know if it is doing something else in the background but i would say avoid this game until a few people can figure out what is happening,False,1746697189,0,0,0.476190477609634399,0,114,114,76561198330620059
+3327170,206028027,"Interesting concept, but way too grindy",False,1759747879,4,0,0.569053292274475098,0,110,110,76561198020553531
+3327170,193510548,"It is a fun game for about 2 hours, the rate of progression slowed down greatly after about the first hour and by 3 hours I never want to look at it again. The focus of the game shifts from skill based to just a really grindy upgrade tree... I had pretty high hopes for the game, but for less than $5, you can't really complain.",False,1745531005,0,0,0.5,0,209,209,76561199040974974
+3327170,192880043,"Starts out nice, but the game is a huge grind, feels heavily padded.
+Most upgrades feel useless and then locking later currencies hard after the half mark of a run where you might be lucky to get close to but can only survive there once or twice every 15 runs, to get some currency... 
+
+Sorry, but the demo felt really really nice - I was REALLY looking forward to the game.
+
+Unfortunately the final game isn't good enough IMHO.
+
+I wish the dev all the best - maybe the game is just not for me - it might be a rage game in disguise (which I despise).. so lots of people might still enjoy it.",False,1744822505,2,0,0.484231948852539062,0,207,207,76561197964365220
+3327170,193108260,"Quite unjoyable for some time, despite the progression being quite slow. However, at some (quite advanced) point it becomes really boring : you need a lot of basic currency to keep upgrading, requiring you to play the same stuff over and over with barely improvement, and you get a lot of other currency that's sitting there because it's not needed anymore. And no way to convert it ...
+
+Tl; dr : At the beginning it's quite fun. Play the demo. Afterwards, it's still a little bit of fun, then a boring, uninspired drag. Not really worth it",False,1745075421,5,1,0.590915143489837646,0,163,194,76561198041972985
+3327170,197228258,"Eh its fine, loop gets boring later. Achievements broke and I also don't feel like restarting to unlock the rest.",False,1749917894,7,0,0.627229571342468262,0,213,213,76561198043452732
+3327170,193583394,"Not worth the price, I'm afraid. Short, simple, and poorly balanced. Enjoyable enough for two or three dollars.",False,1745619252,1,0,0.523809552192687988,0,143,143,76561198077886155
+3327170,193491800,balance this shit,False,1745513220,0,0,0.5,0,169,218,76561198051053441
+3327170,197084192,i played for 2hs and i cant get pass 28 sec i might just be trash,False,1749765971,1,0,0.523809552192687988,2,123,130,76561199336858820
+3327170,192954956,"basic upgrades, nothing really changes except a new bullet, 3 in total during the whole game. price way too high. no feeling of any rewarding progress",False,1744909756,5,0,0.544432342052459717,0,207,207,76561198219563676
+3327170,193055409,nowhere near worth the price. gameloop started promising but got grindy and boring very quickly. upgrades are very shallow. i'm not refunding the game but i would not recommend it to a new comer,False,1745014283,19,0,0.73492121696472168,1,133,133,76561198016635333
+3327170,192921281,Way too short and the upgrade costs often make no sense: I've completed the game in 2.5 hours with a lot of the upgrades not unlocked and they all cost way more than I make in a full 5 minute run,False,1744870973,4,1,0.497555434703826904,0,170,170,76561198028725072
+3327170,192859105,"I really can't recommend this game because its price is way too high given how little content there is. I finished the game in only 3.5h and there isn't much to do after finishing the game.
+
+In addition to the poor time/price ratio, the game felt grindy pretty quickly and there is clear balance issues regarding the currencies and upgrades, where some of the currencies become useless near the end (no upgrades costing that currency) and the upgrades to boost currency gain for the useful currencies cost too much compared to the actual need for those currencies.",False,1744801258,12,0,0.625465273857116699,0,209,209,76561198143040567
+3327170,201873949,"After three hours, I don't know whether I recommend this or not. On the one hand, it feels like there's a story incoming, and it has a certain meditative quality to it (if I play late at night it's like a lullaby with achievements). On the other hand, I honestly can't tell whether I'm getting better or whether my improved times are just a combination of bonuses and luck, and it feels like a really, really slow grind either way.",False,1754864181,2,0,0.560614049434661865,0,175,192,76561198066231537
+3327170,202262469,"Seeing the tags ""Idle"" and ""Bullet Hell"" together really shoulda sent warning signs my way. The premise interested me but the gameplay loop gets really really boring after only a few runs and you'll need plenty of runs to get ANY upgrades with how grindy the game is. The upgrades themselves also feel like they barely matter with how little they actually upgrades you. I'd say that this game isn't worth the money unless it's 80% off or more.",False,1755363061,0,0,0.5,0,151,151,76561198068990926
+3327170,194848791,"This game doesn't understand progression or respect your time. 
+
+The upgrade paths/options are incredibly underwhelming. They offer very minimal, almost invisible, increments to your power. 
+
+I thought that if I put in the time I could grab the upgrades and just ... grind to get ahead. I have almost all of the upgrades now. not even making it halfway through the goal.
+
+A rework just happened apparently... I can't tell. Says they made it easier to get materials with a market thing and by using other skills. That'd be great if buying stuff did anything useful.
+Also allowed collection of a material using more skills than previously. It's still gated behind that original skill. That original skill, in the state you receive it in, is beyond useless.
+The game grants you multiple trigger-able skills throughout the course of the game. Only 2 of them can be used if you actually want to gain certain currency. 
+
+Biggest annoyance: There are multiple upgrade nodes that reduce enemy spawn count. You basically require them because even with them there's too many enemies. The only way to get material is by having those enemies spawn. The ""upgrade"" DOES help you, it also costs you materials permanently. A material you need in the largest quantities out of any of them.
+
+Side note: I'm sure it's some asset pack or something but I've been playing unnamed space idle recently and minutescapes upgrade grid use the exact same icon sets.",False,1747178635,0,0,0.5,0,350,350,76561198003477959
+3327170,192890208,"I beat the game and would probably not recommend it. Felt very grindy/repetitive in a not interesting way for an hour or two. There were times where I thought it was fun, but it needed to move more smoothly between resources. On top of that, I think the gameplay loop needed more meta things (challenges would've been good to include earlier, for example, and would've fixed a lot of problems in regards to feeling repetitive). I felt like a lot of the constraints were close to feeling interesting but weren't quite there, like the size of the box increasing just a little bit even with repeated upgrades and eventually breaking.
+
+I actually would've preferred if the game was less grindy and took less time, unlike some of the other reviews. $5-$6 might be expensive for the game, but I count enjoyability over raw hour count (with Stanley Parable being an excellent example of being a game with a high price to hour ratio). I also feel like a lot of the graphics could stand to be improved (although I did play with shake off) in terms of animations, but I don't have anything concrete besides that the game felt very, very barebones in terms of sprites/gfx.",False,1744831465,1,0,0.451612919569015503,0,279,279,76561198049010568
+3327170,209141781,"Of all the games I've played similar to this, I have to say that I probably enjoyed Minutescape the least. Minimalist graphics and gameplay can be interesting but for some reason it just didn't work well for this one. I couldn't wait to finish it and move on.",False,1763062160,7,0,0.633511841297149658,0,233,233,76561198062523703
+3327170,195926809,"Poorly balanced both in terms of upgrades and gameplay loop. Upgrades become very expensive compared to the resources earned for minimal benefit each. The gameplay loop hits a wall pretty quick and it is very difficult to acquire enough resources to purchase enough upgrades to provide enough of a benefit to progress further. Sounds tedious because it is sadly. The first and only update so far did little to address the issue other than add a resource trading mechanic which then takes a cut of your resources as well, just further compounding the issue of acquiring enough resources.
+
+Sadly it had a lot of potential but the developer is very quiet on fixing, and I've given up waiting.",False,1748556217,18,0,0.668911755084991455,0,224,224,76561198002645820
+3327170,193087035,"Started off great, but soon just turns into a huge grind without much reward at all tbh. - Nice visuals and the game feels pretty solid and was fun for a couple of hours..... but
+
+Just over 4 hours playtime and I should have definitely finished this by now... The problem is the upgrade system only upgrading in increments. - I've unlocked no more then probably 30 upgrades or something..you'd think after so many upgrades I'd have at least got to maybe 2 or 3 mins..
+
+For example.. 0.02 to 0.04 - on a lot of the upgrades or very similar incremental numbers.... - most of the upgrades just felt useless and existed just to pad the game out.
+
+a .02 to .04 isn't progression, it's just pure grind, there's no noticeable difference AT ALL when you upgrade in increments like this... 
+
+A few of the upgrades were even less incremental.. and I was kinda struggling to figure out what I wanted to upgrade as the numbers were so small and insignificant it didn't seem at all worth wasting my points on. 
+
+Of course you could just grind, grind and grind to get as many points as you can and THEN upgrade which I did at points and after several upgrades on one thing, I did find there was SOME improvement but only after i'd spent like 40k on one single upgrade.. I was feeling kinda burned out by that point.
+
+I only managed to survive for 1 min and 24 secs after grinding for nearly 4 and half hours.. it's  just not good enough and made the game boring, frustrating and extremely repetitive.
+
+I really wanted to like this game but the amount of grind you have to do to get as far as I did is absurdly slow and felt more like a pay to win game where progress was forced at a snails pace unless you paid for the progression to speed things up abit.
+
+Also, the game felt very unbalanced the more you survived.. they come at you far too fast, the slow down that slows EVERYTHING, including the timer didn't feel good to use at all. The armour felt pretty weak. Shrinking your box was okish, but the timers filled up quickly but were depleted 10x quicker. - I felt like as soon as you got to the 1 min mark on surviving the game just instantly said nope, and it just turned into a game of 'How quickly can you die past a certain point' 
+
+It become almost impossible to avoid being hit and the more you was hit the faster the game got.. it went from being pretty balanced to 'nope, you're going to die' cause the game didn't like you. - rendering the upgrades useless. 
+
+I'd be very surprised if anyone got to 5 mins and just didn't rage quit either from burn out or just frustration.  
+
+In the research tree, one of the upgrades is 500... LOL... yeah right. - you really think people are gonna grind to unlock that?
+
+NOT GOOD ENOUGH",False,1745054281,3,0,0.504467248916625977,0,249,420,76561199402266401
+3327170,192853255,"The game seemed promising at first; the idea of a bullet hell incremental where you steadily get upgrades to progress farther is an awesome idea. But after the first 20 minutes the pacing becomes complete shit. For the majority of my game time, I was just repeating runs that lasted 1 minute 30 seconds, give or take a few seconds depending on rng. The game's design doesn't allow the player's skill to advance their time much farther than that without certain upgrades, and those upgrades are priced in such a way to require a couple hours of the same ~1:30 minute run over and over until you finally grind up enough currency to reach an upgrade threshold. Once you're past 1:30, probably won't take more than an hour to reach 5 minutes just due to how the upgrades are priced.",False,1744791954,3,0,0.512175798416137695,0,276,276,76561197984041525
+3327170,201879302,Ruined by the ending.,False,1754871331,3,2,0.539099037647247314,0,261,261,76561198087251825
+3327170,197377185,"Game is repetitive at its core. Late game upgrades are quite pricey requiring a bit too much grind.
+
+Frankly the game has too little content for the price its selling at.",False,1750080383,2,0,0.560265719890594482,0,400,400,76561198068927562
+3327170,198357321,"Unfortunately you can't get anywhere near the end of the game without using active abilities which I don't enjoy using. If you want to win you have to play their way. The rate at which you progress is very slow. I think the developers could easily double the strength of all upgrades and the game would be in a better state.
+
+If you don't like active abilities, do not play this.",False,1751114266,3,0,0.555555522441864014,0,317,317,76561198045229007
+3327170,194141792,"While I vaguely enjoyed the rough and long grind through the first four currencies, I don't feel like there are enough upgrades (regardless of how expensive they could be made by the developer) to get you easily or reasonably to the point of the 5th currency to continue gameplay.  I have every upgrade before the 5th unlocked, and while I get close, I don't quite make it to the point to continue/get any of the 5th currency.  And this is after lots of invested time for this time of game.  Leaves a bad taste in my mouth.
+
+If the developer adds more upgrades or changes something about this strangely sharp curve of difficulty (a sharp curve that is IMO unlike similar incremental idle games), I'm happily willing to reconsider changing my review, but at the moment... I am uninstalling and I can't recommend the game unless you want a sharp curve near the maybe-end or are REALLY good at bullet hells and dodging (if you are, this game may be for you).
+
+Small same-day edit:  I do want to note that this was after the 1.1 Update.  The 1.1 Update DID help me to get from having a little bit of the 3rd currency per run to as much as I wanted of the 4th, but I have not seen the 5th currency once, and that is the problem that I am having.  I do want to give the developer kudos for adding in a couple more upgrades to the 1.1 Update that helped with the middle section of progression.",False,1746291801,2,0,0.50205761194229126,0,1277,1277,76561198041015913
+3327170,192899509,"The core of the game is pretty fun. Try to survive for awhile, get some currency, improve and unlock things. I suppose I did enjoy it and it's not too terrible for the price, but it left me with a bad taste in my mouth and feeling unsatisfied.
+
+The problem is mainly in the meta-loop. It bills itself as an ""unfolding game"" but there isn't that much that unfolds. The vast majority of the upgrades are just incremental stat increases, and only a handful of things actually change how the game actually plays.
+
+That alone wouldn't be too bad. But the problem is you have to do a lot of grinding to get enough of the currency to make progress. You'll end up doing 2-3 runs with out having actually purchased any substantive upgrades before you can afford anything. It took me about 6 hours to beat, but it felt like it should have been only half of that based on the amount of content. (The way progression is gated behind a few key purchases without being clear that it is gated by them also made it take a bit longer than it should).
+
+Honestly, I suspect the dev was worried that people would refund if it was less than 2 hours, so padded out the play length but made the game worse overall. 
+
+You also probably don't enter into a game like this expecting much in the way of plot, though with the way it presented the ""manual"" as part of the unfolding experience made it feel like it had a lot of potential. But in the end, the ""plot"" is just incredibly disappointing.",False,1744840776,3,0,0.538707315921783447,0,401,401,76561197970568243
+3327170,197140463,"buggy mess
+the acheivement 'safe haven' has not unlocked for me despite meeting the requirements 3 times and have numerous fixes specifically for it, how does it not work even after the fix???",False,1749829140,2,0,0.541393697261810303,0,967,968,76561198280629586
+3327170,203278363,"Total waste of time. I played for 4 hours and hated every second I spent in this game. I hoped it would get better after unlocking new perks, but it started to get worse.",False,1756670764,0,0,0.443037986755371094,0,244,244,76561199042494240
+3327170,205736056,i can only recommend this for the first hour of the game after that the grind gets way too long. you'll finish the game without having purchased everything and will be nowhere close to it/ the boss mode is weird the ninja style is ok but the rest is what the hell the d.n.a pattern makes it impossible to not take damage sometimes and you have to predict where you will be safe and if you screw up too damn bad,False,1759455130,2,0,0.52173912525177002,0,286,286,76561198909138208
+3327170,202525066,"Started off quite fun but slowly became grindy. Too short, took about 3-4 hours to complete the game. Then I decided to fully get my moneys worth and get every upgrade to see what happens which took about another 2 hours, to my surprise there is absolutely nothing to reward you for getting every upgrade, no Easter egg or secret dialogue and no different modes after 100%. Overall it is a decent game however it is too shallow and not a game I would come back.",False,1755701911,0,0,0.5,0,364,364,76561198274359379
+3327170,203007681,"For starters everytime you play a boss mode it spams you out to steam and to its next slop game. Very frustrating. My boy keeps mocking me playing this game saying iv just downloaded malware or some adware. As for this game, you grind but never feel like its worth it. Then you complete the game and feel empty. A fun concept, without the fun.",False,1756328867,0,0,0.469798654317855835,0,473,473,76561198868764699
+3327170,204950169,BAD,False,1758551257,1,0,0.370462954044342041,0,329,329,76561199055777633
+3327170,202267394,"After insisting for 2 hours out of 4 total of gameplay to pass the 2:30 wall, I give up. I'm uninstalling this.
+To pass it, it would need a mix of incredible focus and multiple tries. When I play incremental games, I want to relax.
+The issue is that there's no way to progress at all at that point, not even slowly. It's not grind, it's a wall.
+Not fun, sorry.",False,1755368071,1,0,0.492307692766189575,0,247,247,76561198285239013
+3327170,201897403,"Absolute slug fest and you can't express any skill - someone else put it better as a dream where none of your punches land. None of the upgrades are that noticeably meaningful and also increasingly tedious to earn.
+
+Can't totally recommend at the price, maybe give it a go if you like the concept.",False,1754901213,2,0,0.493865013122558594,0,965,966,76561198412912748
+3327170,193624803,The upgrades feel unrewarding.,False,1745671470,0,0,0.5,0,274,274,76561198417648646
+3327170,192928401,"Im sorry, but the game only has like 4 hours of fun, the rest is spend on speedrunning",False,1744880436,0,0,0.494079649448394775,0,675,691,76561199384598719
+3327170,198329652,"It's a fun concept but ultimately, I have to thumbs down for now because of the balance. It takes way too long to get your foot in the door with the currency, and the converter takes way too much sometimes for it to be worth it.
+
+Overall, fun idea, not the best execution",False,1751085692,1,0,0.525222539901733398,0,369,395,76561198057587893
+3327170,194005895,"The difficulty ramps up much faster then the skills, abilities and bonuses that are available to purchase. The speed gets so fast I am unable to start earning the last two levels of income and there is nothing left to purchase in game that will assist in doing so. Challenges are fun but only if they can be overcome, otherwise it is just a waste of time and money. Update, after starting a new save file to be able to use the market it does nothing to assist in progress if you are unable to reach each new currency type once before being able to access it in the market which is why a lot of people wanted a place like the market to begin with, so they could obtain the currency they could not get to through gameplay. Sorry Moller and Poysky Productions but you need to at least allow the player to adjust the difficulty of the game to make this worth purchasing.",False,1746133527,3,0,0.497361510992050171,0,285,285,76561198021637318
+3327170,194065366,"pros
+trade update good 
+cons
+around the 2min mark there a wall still
+upgrades still cost to much 
+being able to beat the game without all upgrades 
+the last 10 secs is bullshit so u need to pulse and shield to live since slow down times does nothing and shrink doesn't do anything come on  game dev no cool",False,1746205919,3,0,0.497361510992050171,0,347,347,76561198854460132

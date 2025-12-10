@@ -1,0 +1,57 @@
+﻿appid,recommendationid,review_text,voted_up,timestamp_created,votes_up,votes_funny,weighted_vote_score,comment_count,playtime_at_review_minutes,playtime_forever_minutes,steamid
+2703280,199912673,"bit Sus tbh, my buddy told me to get it :( but for only £167.99 i thought why Not!!!!",True,1752641590,0,2,0.494752615690231323,1,10,10,76561199030174728
+2703280,155666689,"Assassin in the 5th element.
+Indie games are almost at the point where they can make their own assassins. Only here we are looking for items, how much I hate that in games ><",True,1704859541,1,0,0.392819404602050781,0,81,81,76561198079329378
+2703280,155607648,"Fun and interesting game, you need to explore the location and show your attention to find hidden items. I liked the game very much, especially the female characters)",True,1704784462,2,5,0.337288111448287964,0,91,117,76561199364015610
+2703280,155555217,very difficult game. it is not clear how to do what to do. everywhere you fall and die. found only a few items using randomness.,True,1704722505,0,1,0.386687695980072021,0,162,162,76561198028019693
+2703280,155552192,"A dynamic game with parkour elements. Very happy that the developers every time release games better and better. Easy control, cool detailed locations.  The goal of the game to find hidden objects.",True,1704719087,1,4,0.331558078527450562,0,100,100,76561198107292899
+2703280,157052312,A simple game in which you will need to search and collect items in the game there are elements of parkour.,True,1706457689,1,0,0.0412834994494915009,0,143,143,76561198016547862
+2703280,155694276,"The game was easy, went by very quickly, although some levels were a bit difficult. For a nice evening will do.",True,1704901406,0,1,0.388922065496444702,0,317,317,76561198132605455
+2703280,155566180,"Hmm, I think the writers were inspired by some game I know. I can't remember which one.",True,1704733390,0,1,0.345766305923461914,0,319,319,76561198098647084
+2703280,155734632,you can't go wrong with free unity assets,True,1704955310,19,12,0.613586843013763428,0,291,291,76561198318186920
+2703280,161849714,hot ass,False,1711851635,17,4,0.636822760105133057,0,10,10,76561199115556693
+2703280,192013191,"[b][quote][url=https://en.wikipedia.org/wiki/Asset_flip]Warning: Asset Flip![/url][/quote][/b]
+
+Climb Challenge - Find Items Cyberpunk is a Unity Asset flip, what Valve calls a ""fake game"".  The ""developer"", Hede, took the [url=https://assetstore.unity.com/packages/3d/environments/sci-fi/cyberpunk-high-city-hdrp-bip-164141]Cyberpunk High City[/url] Unity Store game assets from the real developers, IL.ranch, changed the name, and dumped the result onto Steam.  They're attempting to scam people into buying this, so they can get your money for someone else's work.
+
+It gets worse... ""Cyberpunk High City"" has also been shamelessly dumped on Steam by other asset flippers apart from Hede:
+[list]
+    [*] ""[url=https://store.steampowered.com/app/1422260]The Last Element: Looking For Tomorrow[/url]"", asset flipped by The Last Developer
+[/list]
+Take a look for yourself... these are all [i]exactly the same game![/i]
+
+Hede has shown a repeat pattern of unethically dumping other people's work onto Steam as a cheap, nasty cash grab. Here's some examples so you can see for yourself:
+[list]
+    [*] ""[url=https://store.steampowered.com/app/1944970]Hidden Farm Top-Down 3D[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/industrial/farm-life-110144]Farm Life[/url] developed by beffio
+    [*] ""[url=https://store.steampowered.com/app/2947730]3D PUZZLE - Hospital 1[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/hospital-medical-office-kit-165327]Hospital Medical Office Kit[/url] developed by Brick Project Studio
+    [*] ""[url=https://store.steampowered.com/app/1419440]Truck Truck[/url]"" = [url=https://assetstore.unity.com/packages/templates/packs/truck-physics-template-129411]Truck Physics Template[/url] developed by HitCode
+    [*] ""[url=https://store.steampowered.com/app/2703200]Hidden Western Top-Down 3D[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/historic/polygon-western-low-poly-3d-art-by-synty-112212]Polygon Western - Low Poly 3D Art Pack[/url] developed by Synty Studios
+    [*] ""[url=https://store.steampowered.com/app/3471100]How Much Items - Plants[/url]"" = [url=https://assetstore.unity.com/packages/3d/vegetation/trees/edge-trees-1-273961]EDGE - Trees 1[/url] developed by Edge
+    [*] ""[url=https://store.steampowered.com/app/2878360]Save and Survive[/url]"" = [url=https://assetstore.unity.com/packages/templates/systems/survival-engine-crafting-building-farming-178160]Survival Engine[/url] developed by Indie Marc
+    [*] ""[url=https://store.steampowered.com/app/2703190]Hidden World 10 Top-Down 3D[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/historic/polygon-pirates-low-poly-3d-art-by-synty-92579]Polygon Pirates Low Poly 3D asset pack[/url] developed by Synty Games
+    [*] ""[url=https://store.steampowered.com/app/1915910]Hidden Build Top-Down 3D[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/industrial/polygon-construction-low-poly-3d-art-by-synty-168036]Polygon Construction Low Poly 3D Art[/url] developed by Synty Studios
+    [*] ""[url=https://store.steampowered.com/app/3244690]Save Scream and Run[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/sci-fi/zeppelin-z-25-urp-294085]Zeppelin 'Z-25' (URP)[/url] developed by IL.ranch
+    [*] ""[url=https://store.steampowered.com/app/2244840]Fears of Glasses o-o World War[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/historic/polygon-war-map-wwi-low-poly-3d-art-by-synty-169085]Polygon War Map[/url] developed by Synty Studios
+    [*] ""[url=https://store.steampowered.com/app/3079460]3D PUZZLE - Deserted Village[/url]"" = [url=https://assetstore.unity.com/packages/3d/environments/historic/deserted-village-86290]Deserted Village[/url] developed by Triplebrick
+    [*] ""[url=https://store.steampowered.com/app/1502730]Street Football[/url]"" = [url=https://assetstore.unity.com/packages/templates/packs/street-football-game-159255]Street Football Game[/url] developed by noureddine naceur
+[/list]
+
+Because this is an almost exact 1:1 copy + paste of the original Unity asset, it's in violation of the [url=https://unity.com/legal/as-terms]Unity Asset Store Terms of Service and EULA[/url].  Specifically, Section 2, Subsection 2.2.1a:
+
+[quote][i]Subject to the restrictions set forth in this EULA, Licensor hereby grants to the END-USER a non-exclusive, non-transferable, worldwide, and perpetual license to the Asset solely:(a) to incorporate the Asset, [b]together with substantial, original content not obtained through the Unity Asset Store[/b], into an electronic application or digital media that has a purpose, features, and functions beyond the display, performance, distribution, or use of Assets (""Licensed Product"") as an embedded component of that Licensed Product, [b]such that the Asset does not comprise a substantial portion of the Licensed Product[/b][/i][/quote]
+
+Because the developer misused the asset pack such that it comprises the vast majority of this ""game"", the developer has unethically and deliberately breached the license agreement.  Worse, this intellectual property violation was done in an attempt to profit from their illicit actions.  Why is this permitted on Steam?
+
+The products that result from asset flips aren't ""real"" games.  They lack depth and content, because they're just simplistic copies of demos or tutorials.  In this case, ""Cyberpunk High City"" is just a basic Unity setpiece with art elements intended to be used as a guide for making real games, and doesn't have any merit as a proper, fully fledged PC game, so this copy+paste of it can't be recommended.
+
+Asset flips don't involve any professional game development.  Sure, sometimes they may change a few cosmetic things, swap out different assets etc, but at heart it's functionally identical to the asset they're ripping off.
+
+Asset flips like this are harmful to the gaming industry and to Steam because they reduce the visibility that sincerely made indie games should have, and make it harder for gamers to find real games from genuine developers.
+
+[quote][b][url=https://www.ftc.gov/legal-library/browse/federal-register-notices/16-cfr-part-465-trade-regulation-rule-use-consumer-reviews-testimonials-final-rule]Warning: Review Manipulation![/url][/b]
+
+This game features a number of fake positive reviews from accounts known to be in the business of review manipulation/paid reviews.  They're all written in either Russian or broken English, appear at almost exactly the same time, very shortly after the game launched on Steam, all have a direct Steam purchase of the game, and the accounts are used consistently to write fake reviews for asset flips and other cash grabs/scams.  The ""Positive"" review score on this game should be disregarded due to this blatant, unethical review manipulation.  This is done to deceive and scam gamers into paying for a bad product.
+
+Due to the 2024 FTC ruling (16 CFR Part 465), these fake reviews are a violation of US Federal Law.[/quote]Don't reward this morally bankrupt, unethical behaviour from Hede.
+
+Climb Challenge - Find Items Cyberpunk has the completely insane price of $200 USD, which is incredibly suspicious, higher than AAA pricing for an asset flip shovelware scam game.  Why would the ""developer"" put such a high price tag on an asset flip with no true value as a game?  There's no direct proof for this, but it's entirely possible this game is priced this way for money laundering or other criminal purposes.  Higher prices allow more money to move with fewer transactions.  Valve have previously banned developers for running money laundering scams.  While there's no direct evidence in this case, it's highly suspicious and gamers should be wary.  Given the defects and quality issues with the game, coupled with the unrealistic price, this is impossible to recommend.",False,1743826303,23,0,0.732583165168762207,0,247,247,76561198030784015
