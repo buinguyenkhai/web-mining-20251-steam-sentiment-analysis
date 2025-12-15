@@ -1,0 +1,21 @@
+{
+  "total_reviews": 41579,
+  "train_size": 29105,
+  "val_size": 6237,
+  "test_size": 6237,
+  "num_games": 43,
+  "num_genres": 12,
+  "positive_ratio": 0.5513841121720099,
+  "random_seed": 42,
+  "min_text_length": 50,
+  "length_tier_targets": {
+    "short": 0.2,
+    "medium": 0.4,
+    "long": 0.4
+  },
+  "playtime_tier_targets": {
+    "short": 0.33,
+    "medium": 0.33,
+    "long": 0.34
+  }
+}
