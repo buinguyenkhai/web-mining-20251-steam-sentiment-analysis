@@ -1,44 +1,49 @@
 appid,positive_count,total_count,name,primary_genre,popularity_tier,is_free,release_era,negative_count,positive_ratio,max_balanced_per_class,selection_score
-541200,537,818,GTTOD: Get To The Orange Door,action_fps,low,False,classic,281,0.656479217603912,281,200.36584841970367
-7670,487,1265,BioShock™,action_fps,medium,False,classic,778,0.3849802371541502,487,338.5714306409916
-973580,520,1348,Sniper Ghost Warrior Contracts,action_fps,high,False,classic,828,0.3857566765578635,520,346.6176145774935
-500,358,947,Left 4 Dead,action_fps,high,False,classic,589,0.3780359028511088,358,216.45401188473625
-751630,688,1051,After the Fall®,action_fps,medium,False,recent,363,0.6546146527117032,363,197.10186404424365
-2703850,459,630,Rooftops &amp; Alleys: The Parkour Game,exploration_open_world,medium,False,new,171,0.7285714285714285,171,137.9756431632238
-9900,589,1428,Star Trek Online,exploration_open_world,high,True,classic,839,0.41246498599439774,589,354.6115011743209
-517630,434,1176,Just Cause 4 Reloaded,exploration_open_world,high,False,classic,742,0.36904761904761907,434,300.24426408004217
-352400,382,760,LEGO® Jurassic World,exploration_open_world,high,False,classic,378,0.5026315789473684,378,285.9909852161994
-200260,416,1164,Batman: Arkham City - Game of the Year Edition,exploration_open_world,high,False,classic,748,0.35738831615120276,416,278.8072577796046
-40720,626,742,Samorost 2,puzzle_matching,low,False,classic,116,0.8436657681940701,116,87.1229140198042
-22000,555,750,World of Goo,puzzle_matching,medium,False,classic,195,0.74,195,140.6945018642116
-418240,636,1101,Shadow Tactics: Blades of the Shogun,puzzle_matching,high,False,classic,465,0.5776566757493188,465,293.68528947223797
-1592190,393,1132,BONELAB,puzzle_matching,high,False,recent,739,0.3471731448763251,393,233.13618432936917
-633080,299,359,Relic Hunters Legend,rpg_action,low,False,new,60,0.8328690807799443,60,49.96737821583598
-525480,674,992,.hack//G.U. Last Recode,rpg_action,medium,False,classic,318,0.6794354838709677,318,237.51759613930136
-1056640,554,1337,Phantasy Star Online 2 New Genesis,rpg_action,high,True,recent,783,0.4143605086013463,554,328.4234438413612
-3156770,713,1333,Witchfire,rpg_action,high,False,new,620,0.5348837209302325,620,314.6450412719998
-206440,571,1437,To the Moon,casual,medium,False,classic,866,0.39735560194850383,571,302.55241236872916
-285330,498,780,RollerCoaster Tycoon® 2: Triple Thrill Pack,casual,high,False,classic,282,0.6384615384615384,282,235.88855372533334
-2296990,589,927,We Were Here Expeditions: The FriendShip,casual,medium,False,recent,338,0.6353829557713053,338,178.7672114006384
-1536090,786,980,Echoes of the Plum Grove,casual,high,False,new,194,0.8020408163265306,194,177.8397348116461
-218640,546,1219,Lucius,horror,medium,False,classic,673,0.4479081214109926,546,
-381210,356,974,Dead by Daylight,horror,high,False,classic,618,0.3655030800821355,356,
-698670,730,1602,Scorn,science_fiction,medium,False,recent,872,0.4556803995006242,730,409.01524937396016
-1544020,748,1574,The Callisto Protocol™,science_fiction,high,False,recent,826,0.47522236340533675,748,377.43885211152184
-1268750,616,1482,Starship Troopers: Extermination,science_fiction,high,False,new,866,0.4156545209176788,616,357.517691011127
-233270,571,1375,Far Cry 3 - Blood Dragon,science_fiction,medium,False,classic,804,0.4152727272727273,571,353.9233026512157
-301120,617,726,Eastside Hockey Manager,sports,high,,unknown,109,0.849862258953168,109,
-798290,144,212,MXGP PRO,sports,medium,False,classic,68,0.6792452830188679,68,
-1324350,425,523,Turbo Golf Racing,sports,low,False,new,98,0.8126195028680688,98,
-1566200,685,865,Tape to Tape,sports,high,False,recent,180,0.791907514450867,180,
-1306630,713,912,Lost Ruins,survival,low,False,recent,199,0.7817982456140351,199,154.17102793432798
-328080,709,1289,Rise to Ruins,survival,medium,False,classic,580,0.5500387897595035,580,356.2522284353982
-1364290,502,1155,Animalia Survival,survival,high,False,recent,653,0.43463203463203465,502,269.48544555255273
-505230,679,1080,Pathologic 2,survival,high,False,classic,401,0.6287037037037037,401,231.6711076089411
-429720,481,561,IMSCARED,hidden_object,low,False,classic,80,0.857397504456328,80,
-2599300,278,333,Dead Signal,hidden_object,low,False,recent,55,0.8348348348348348,55,
-589530,454,507,Hakuoki: Kyoto Winds,anime,medium,False,classic,53,0.8954635108481263,53,
-1105510,517,762,Yakuza 5 Remastered,anime,high,False,recent,245,0.678477690288714,245,
-1353230,535,750,Bomb Rush Cyberfunk,anime,high,False,recent,215,0.7133333333333334,215,
-1858630,440,699,SWORD ART ONLINE Fractured Daydream,anime,high,False,new,259,0.6294706723891274,259,
-1181840,493,612,HIVESWAP: ACT 2,visual_novel,low,False,recent,119,0.8055555555555556,119,
+973580,497,1307,Sniper Ghost Warrior Contracts,action_fps,high,False,classic,810,0.3802601377199694,497,540.3088072887467
+500,337,895,Left 4 Dead,action_fps,high,False,classic,558,0.376536312849162,337,355.7270059423681
+7670,460,1206,BioShock™,action_fps,medium,False,classic,746,0.3814262023217247,460,507.5357153204958
+541200,510,788,GTTOD: Get To The Orange Door,action_fps,low,False,classic,278,0.6472081218274112,278,307.9329242098518
+751630,673,1032,After the Fall®,action_fps,medium,False,recent,359,0.6521317829457365,359,366.8009320221218
+9900,579,1397,Star Trek Online,exploration_open_world,high,True,classic,818,0.41445955619183966,579,609.0557505871604
+517630,419,1141,Just Cause 4 Reloaded,exploration_open_world,high,False,classic,722,0.3672217353198948,419,460.6221320400211
+2703850,448,619,Rooftops &amp; Alleys: The Parkour Game,exploration_open_world,medium,False,new,171,0.7237479806138933,171,197.23782158161188
+1771300,436,1254,Kingdom Come: Deliverance II,exploration_open_world,high,False,new,818,0.34768740031897927,436,445.1702254926717
+200260,387,1102,Batman: Arkham City - Game of the Year Edition,exploration_open_world,high,False,classic,715,0.3511796733212341,387,422.4036288898023
+418240,611,1068,Shadow Tactics: Blades of the Shogun,puzzle_matching,high,False,classic,457,0.5720973782771536,457,487.592644736119
+1592190,380,1110,BONELAB,puzzle_matching,high,False,recent,730,0.34234234234234234,380,398.3180921646846
+22000,544,736,World of Goo,puzzle_matching,medium,False,classic,192,0.7391304347826086,192,213.5972509321058
+40720,604,718,Samorost 2,puzzle_matching,low,False,classic,114,0.841225626740947,114,128.56145700990209
+1141020,345,412,Adventure Escape Mysteries,puzzle_matching,high,True,recent,67,0.837378640776699,67,81.6072324267609
+3156770,698,1310,Witchfire,rpg_action,high,False,new,612,0.5328244274809161,612,614.3225206359999
+1056640,526,1288,Phantasy Star Online 2 New Genesis,rpg_action,high,True,recent,762,0.4083850931677019,526,551.7117219206806
+525480,665,981,.hack//G.U. Last Recode,rpg_action,medium,False,classic,316,0.6778797145769623,316,355.25879806965065
+633080,290,347,Relic Hunters Legend,rpg_action,low,False,new,57,0.8357348703170029,57,66.98368910791798
+3564740,452,1172,Where Winds Meet,rpg_action,high,True,new,720,0.3856655290102389,452,482.37724259507195
+285330,459,733,RollerCoaster Tycoon® 2: Triple Thrill Pack,casual,high,False,classic,274,0.626193724420191,274,321.44427686266664
+1536090,772,965,Echoes of the Plum Grove,casual,high,False,new,193,0.8,193,233.41986740582306
+206440,540,1391,To the Moon,casual,medium,False,classic,851,0.3882099209202013,540,548.5262061843646
+2296990,551,869,We Were Here Expeditions: The FriendShip,casual,medium,False,recent,318,0.6340621403912543,318,322.8836057003192
+251670,457,687,Battle Nations,casual,high,True,classic,230,0.6652110625909753,230,233.25257964926396
+381210,326,903,Dead by Daylight,horror,high,False,classic,577,0.3610188261351052,326,348.0076246869801
+218640,523,1180,Lucius,horror,medium,False,classic,657,0.44322033898305085,523,557.2116513256078
+1544020,724,1521,The Callisto Protocol™,science_fiction,high,False,recent,797,0.4760026298487837,724,736.9389990800008
+1268750,603,1447,Starship Troopers: Extermination,science_fiction,high,False,new,844,0.41672425708362126,603,648.4660201039391
+698670,715,1576,Scorn,science_fiction,medium,False,recent,861,0.4536802030456853,715,739.7588455055635
+233270,537,1317,Far Cry 3 - Blood Dragon,science_fiction,medium,False,classic,780,0.40774487471526194,537,543.1019117422389
+2101960,713,1118,Cronos: The New Dawn,science_fiction,high,False,new,405,0.6377459749552773,405,438.12611421769907
+1566200,676,855,Tape to Tape,sports,high,False,recent,179,0.7906432748538011,179,227.47923138822793
+301120,603,710,Eastside Hockey Manager,sports,high,,unknown,107,0.8492957746478873,107,133.00340105889055
+798290,146,212,MXGP PRO,sports,medium,False,classic,66,0.6886792452830188,66,93.33551396716399
+1324350,399,492,Turbo Golf Racing,sports,low,False,new,93,0.8109756097560976,93,102.24272277627635
+1364290,493,1139,Animalia Survival,survival,high,False,recent,646,0.43283582089552236,493,539.0937117511559
+505230,642,1034,Pathologic 2,survival,high,False,classic,392,0.620889748549323,392,438.9749470782094
+328080,690,1261,Rise to Ruins,survival,medium,False,classic,571,0.5471847739888978,571,609.7566411680557
+1306630,688,885,Lost Ruins,survival,low,False,recent,197,0.7774011299435029,197,226.89499894055425
+1227280,550,764,Despot's Game: Dystopian Battle Simulator,survival,medium,False,recent,214,0.7198952879581152,214,258.7413675213825
+429720,449,528,IMSCARED,hidden_object,low,False,classic,79,0.8503787878787878,79,88.79914312095725
+2599300,255,308,Dead Signal,hidden_object,low,False,recent,53,0.827922077922078,53,55.2613644455269
+1858630,422,676,SWORD ART ONLINE Fractured Daydream,anime,high,False,new,254,0.6242603550295858,254,295.43687545759644
+1105510,486,728,Yakuza 5 Remastered,anime,high,False,recent,242,0.6675824175824175,242,261.4338644844741
+589530,453,506,Hakuoki: Kyoto Winds,anime,medium,False,classic,53,0.8952569169960475,53,69.26651653816322
+1353230,502,717,Bomb Rush Cyberfunk,anime,high,False,recent,215,0.700139470013947,215,228.5674515886948
+1181840,470,589,HIVESWAP: ACT 2,visual_novel,low,False,recent,119,0.797962648556876,119,136.83766633467945
