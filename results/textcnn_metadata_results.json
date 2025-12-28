@@ -1,0 +1,41 @@
+{
+  "model_type": "TextCNN+Metadata",
+  "cv_results": {
+    "accuracy": {
+      "mean": 0.8884602513887643,
+      "std": 0.0035732450232724786
+    },
+    "precision": {
+      "mean": 0.8809086045947188,
+      "std": 0.009517909652434747
+    },
+    "recall": {
+      "mean": 0.8986207344257569,
+      "std": 0.0078980082079955
+    },
+    "f1": {
+      "mean": 0.8896003583675215,
+      "std": 0.0030355196001395153
+    }
+  },
+  "test_results": {
+    "accuracy": 0.8775879066710484,
+    "precision": 0.8498781973203411,
+    "recall": 0.9171869865264541,
+    "f1": 0.882250671724356
+  },
+  "optimal_epochs": 5,
+  "hyperparameters": {
+    "batch_size": 128,
+    "n_filters": 256,
+    "filter_sizes": [
+      3,
+      4,
+      5
+    ],
+    "hidden_dim": 64,
+    "dropout": 0.32699416540205284,
+    "learning_rate": 0.0009783547650967232,
+    "metadata_embed_dim": 32
+  }
+}

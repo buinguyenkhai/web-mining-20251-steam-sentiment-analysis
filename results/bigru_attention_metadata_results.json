@@ -1,0 +1,36 @@
+{
+  "model_type": "BiGRU+Attention+Metadata",
+  "cv_results": {
+    "accuracy": {
+      "mean": 0.891592396842233,
+      "std": 0.003634521101303928
+    },
+    "precision": {
+      "mean": 0.8830050605133559,
+      "std": 0.016235370654928197
+    },
+    "recall": {
+      "mean": 0.9035522222981995,
+      "std": 0.013735169974280117
+    },
+    "f1": {
+      "mean": 0.8929095024604978,
+      "std": 0.0019054345214062883
+    }
+  },
+  "test_results": {
+    "accuracy": 0.9012487676634899,
+    "precision": 0.8933634020618557,
+    "recall": 0.9112717712783437,
+    "f1": 0.902228729461526
+  },
+  "optimal_epochs": 5,
+  "hyperparameters": {
+    "batch_size": 32,
+    "hidden_dim": 64,
+    "num_layers": 3,
+    "dropout": 0.20068592388224113,
+    "learning_rate": 0.0016732285791048196,
+    "metadata_embed_dim": 32
+  }
+}
