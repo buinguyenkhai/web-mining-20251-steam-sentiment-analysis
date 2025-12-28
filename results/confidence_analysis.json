@@ -1,0 +1,39 @@
+{
+  "analysis": "confidence_distribution",
+  "high_conf_threshold": 0.9,
+  "models": [
+    {
+      "model": "Naive Bayes",
+      "accuracy": 0.859842260926717,
+      "avg_confidence_correct": 0.57059151886154,
+      "avg_confidence_incorrect": 0.2644074625531809,
+      "std_confidence_correct": 0.260769467217261,
+      "std_confidence_incorrect": 0.20343175558786114,
+      "pct_wrong_high_conf": 0.4689331770222743,
+      "num_correct": 5233,
+      "num_incorrect": 853
+    },
+    {
+      "model": "BiGRU+Attention+Metadata",
+      "accuracy": 0.9012487676634899,
+      "avg_confidence_correct": 0.8408203125,
+      "avg_confidence_incorrect": 0.462890625,
+      "std_confidence_correct": 0.239990234375,
+      "std_confidence_incorrect": 0.31103515625,
+      "pct_wrong_high_conf": 12.9783693843594,
+      "num_correct": 5485,
+      "num_incorrect": 601
+    },
+    {
+      "model": "TextCNN+Metadata",
+      "accuracy": 0.8775879066710484,
+      "avg_confidence_correct": 0.935546875,
+      "avg_confidence_incorrect": 0.7119140625,
+      "std_confidence_correct": 0.1689453125,
+      "std_confidence_incorrect": 0.302490234375,
+      "pct_wrong_high_conf": 43.355704697986575,
+      "num_correct": 5341,
+      "num_incorrect": 745
+    }
+  ]
+}
