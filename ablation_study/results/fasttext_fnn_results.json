@@ -1,0 +1,25 @@
+{
+  "model_name": "FastText Only",
+  "architecture": {
+    "embedding_dim": 200,
+    "hidden_dim": 128,
+    "num_layers": 2,
+    "dropout": 0.37688348156490475,
+    "max_length": 256
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "accuracy_mean": 0.846089501572189,
+    "accuracy_std": 0.008495707474989313,
+    "f1_mean": 0.8484059279239593,
+    "f1_std": 0.005098341669372949,
+    "precision_mean": 0.8370714130801288,
+    "recall_mean": 0.8607455187722749
+  },
+  "test_set": {
+    "accuracy": 0.8585277686493592,
+    "precision": 0.8715940054495913,
+    "recall": 0.8409464344396976,
+    "f1": 0.8559959859508279
+  }
+}

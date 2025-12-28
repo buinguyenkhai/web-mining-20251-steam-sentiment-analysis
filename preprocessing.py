@@ -12,49 +12,47 @@ def preprocess_for_fasttext(text: str) -> str:
     # Steam-specific: Remove URLs first
     text = re.sub(r'http\S+|www\.\S+', ' ', text)
     
-    # Lowercase (tr '[:upper:]' '[:lower:]')
+    # Lowercase
     text = text.lower()
     
-    # Normalize smart quotes to regular apostrophe (from get-wikimedia.sh)
-    # s/'/'/g -e s/′/'/g
+    # Normalize smart quotes to regular apostrophe
     text = re.sub(r"['′''`]", "'", text)
     
-    # Add space around apostrophes (s/'/ ' /g)
+    # Add space around apostrophes
     text = re.sub(r"'", " ' ", text)
     
-    # Remove double quotes including smart quotes (s/"//g)
-    # From get-wikimedia.sh: s/"/\"/g -e s/"/\"/g then s/"/ " /g
+    # Remove double quotes including smart quotes
     text = re.sub(r'["""]', '', text)
     
-    # Add space around periods (s/\./ \. /g)
+    # Add space around periods
     text = re.sub(r'\.', ' . ', text)
     
-    # Remove <br /> tags (s/<br \/>/ /g)
+    # Remove <br /> tags
     text = re.sub(r'<br\s*/?>', ' ', text, flags=re.IGNORECASE)
     
-    # Add space around commas (s/,/ , /g)
+    # Add space around commas
     text = re.sub(r',', ' , ', text)
     
-    # Add space around parentheses (s/(/ ( /g and s/)/ ) /g)
+    # Add space around parentheses
     text = re.sub(r'\(', ' ( ', text)
     text = re.sub(r'\)', ' ) ', text)
     
-    # Add space around exclamation marks (s/\!/ \! /g)
+    # Add space around exclamation marks
     text = re.sub(r'!', ' ! ', text)
     
-    # Add space around question marks (s/\?/ \? /g)
+    # Add space around question marks
     text = re.sub(r'\?', ' ? ', text)
     
-    # Remove semicolons and replace with space (s/\;/ /g)
+    # Remove semicolons and replace with space
     text = re.sub(r';', ' ', text)
     
-    # Remove colons and replace with space (s/\:/ /g)
+    # Remove colons and replace with space
     text = re.sub(r':', ' ', text)
     
-    # Steam-specific: Remove any remaining HTML tags
+    # Remove any remaining HTML tags
     text = re.sub(r'<[^>]+>', ' ', text)
     
-    # Collapse multiple spaces (tr -s " ")
+    # Collapse multiple spaces
     text = re.sub(r'\s+', ' ', text).strip()
     
     return text

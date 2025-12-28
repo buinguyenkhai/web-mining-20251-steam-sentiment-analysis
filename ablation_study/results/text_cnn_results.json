@@ -1,0 +1,30 @@
+{
+  "model_name": "TextCNN",
+  "architecture": {
+    "embedding_dim": 200,
+    "n_filters": 128,
+    "filter_sizes": [
+      3,
+      4,
+      5
+    ],
+    "hidden_dim": 64,
+    "dropout": 0.28889376562465907,
+    "max_length": 256
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "accuracy_mean": 0.8799339813503769,
+    "accuracy_std": 0.0025714817574614664,
+    "f1_mean": 0.8794092258623939,
+    "f1_std": 0.0037499797788554264,
+    "precision_mean": 0.8832740330857769,
+    "recall_mean": 0.8757675944106064
+  },
+  "test_set": {
+    "accuracy": 0.8810384488991128,
+    "precision": 0.8947906026557712,
+    "recall": 0.863621426224121,
+    "f1": 0.8789297658862877
+  }
+}

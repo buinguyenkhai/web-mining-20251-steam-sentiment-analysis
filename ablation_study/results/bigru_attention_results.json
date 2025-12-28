@@ -1,0 +1,25 @@
+{
+  "model_name": "FastText + BiGRU + Attention + FNN",
+  "architecture": {
+    "embedding_dim": 200,
+    "hidden_dim": 128,
+    "num_layers": 2,
+    "dropout": 0.37688348156490475,
+    "max_length": 256
+  },
+  "cross_validation": {
+    "n_folds": 5,
+    "accuracy_mean": 0.8901713546392107,
+    "accuracy_std": 0.0028833818348976132,
+    "f1_mean": 0.8911563972607881,
+    "f1_std": 0.0020812119751251607,
+    "precision_mean": 0.8836057341192343,
+    "recall_mean": 0.8990851078367005
+  },
+  "test_set": {
+    "accuracy": 0.8938547486033519,
+    "precision": 0.8879896406604079,
+    "recall": 0.9014130791981597,
+    "f1": 0.8946510110893673
+  }
+}

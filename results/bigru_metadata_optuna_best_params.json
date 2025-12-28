@@ -1,0 +1,12 @@
+{
+  "best_f1": 0.8917469349711076,
+  "best_params": {
+    "hidden_dim": 64,
+    "num_layers": 3,
+    "dropout": 0.20068592388224113,
+    "learning_rate": 0.0016732285791048196,
+    "weight_decay": 0.00013399625935258818,
+    "batch_size": 32,
+    "metadata_embed_dim": 32
+  }
+}

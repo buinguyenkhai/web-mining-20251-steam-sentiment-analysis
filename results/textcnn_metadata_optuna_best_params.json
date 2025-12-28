@@ -1,0 +1,13 @@
+{
+  "best_f1": 0.8879897284909286,
+  "best_params": {
+    "n_filters": 256,
+    "filter_sizes": "3,4,5",
+    "hidden_dim": 64,
+    "dropout": 0.32699416540205284,
+    "learning_rate": 0.0009783547650967232,
+    "weight_decay": 0.0074634960348585015,
+    "batch_size": 128,
+    "metadata_embed_dim": 32
+  }
+}
